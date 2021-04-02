@@ -11,7 +11,8 @@
 
 
 ### The Foundation for Shamanic Studies Europe
-[Towards Networked Communion (2020)](https://issuu.com/fsse/docs/tagungsbuch_2020_en)\
+[Towards Networked Communion Publication (2020)](https://issuu.com/fsse/docs/tagungsbuch_2020_en)\
+[Shamanism and Digitalisation (2020) Review](https://www.shamanism.eu/review-conference-shamanism-and-digitalisation/)\
 [Cellulare Source Code (2020)](https://github.com/hermetechnics/cellulare)
 
 
