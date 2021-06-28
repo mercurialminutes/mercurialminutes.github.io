@@ -1,13 +1,19 @@
 # Occult
 
+### Mercurial Minutes
+[Mercurial Minutes](https://mercurialminutes.substack.com/)
+
 ### Hermetechnics Inc.
 [Hermetechnics Inc.](https://www.hermetechnics.life/)\
-[Hermetechnics Inc. Instagram](https://www.instagram.com/hermetechnics/)\
-\
-[Oracles for Troubling Times: Designing new divination systems (2020)](https://www.youtube.com/watch?v=KxmAd6ByK40) on [Uroboros Festival](https://uroboros.design/)\
-[Go Ask Aliester! (2020)](https://www.instagram.com/p/B_m_QXYHijq/)\
-[Tarot of the Latent Spaces (2021)](https://www.instagram.com/p/CIyUQkuHKNC) + [1](https://www.instagram.com/p/CMmtF1vn7lZ/) + [2](https://www.instagram.com/p/CMpbL3sh55W)\
-⚡️SOON⚡️ [Veštby zo Silicon Valley (Slovak) (2021)](https://www.facebook.com/events/504827170512030)
+[Hermetechnics Inc. Instagram](https://www.instagram.com/hermetechnics/)
+
+[Oracles for Troubling Times: Designing new divination systems (2020)](https://www.youtube.com/watch?v=KxmAd6ByK40)\
+[Go Ask Aliester! (2020)](https://www.instagram.com/p/B_m_QXYHijq/)
+
+[Tarot of the Latent Spaces (2021)](https://mercurialminutes.substack.com/p/tarot-of-the-latent-spaces-by-hermetechnics)\
+[Veštby zo Silicon Valley (Slovak) (2021)](https://www.facebook.com/events/504827170512030)\
+[Arcana in the Feed: Navigating Internet(2021)](https://www.youtube.com/watch?v=9aimRQlVYXo)
+
 
 
 ### The Foundation for Shamanic Studies Europe
@@ -21,7 +27,8 @@
 ### 0e20f2
 [0e20f2 Bandcamp](https://0e20f2.bandcamp.com/releases)\
 [0e20f2 A/V @MonomerTV](https://vimeo.com/465105344#t=1400)\
-[0e20f2 Instagram](https://www.instagram.com/0e20f2/)
+[0e20f2 Instagram](https://www.instagram.com/0e20f2/)\
+[0e20f2 Tape at Industrial Coast](https://industrialcoast.bigcartel.com/product/oe20f2)
 
 ### Crash Report
 [Crash Report Bandcamp](https://crashreport.bandcamp.com/releases)\
