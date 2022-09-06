@@ -23,16 +23,16 @@
 
 ⭐ [Tarot of the Latent Spaces (2021)](https://mercurialminutes.substack.com/p/tarot-of-the-latent-spaces-by-hermetechnics)\
 [Veštby zo Silicon Valley (Slovak) (2021)](https://www.facebook.com/events/504827170512030)\
-[Arcana in the Feed: Navigating Internet (2021)](https://www.youtube.com/watch?v=9aimRQlVYXo)
+[Arcana in the Feed: Navigating Internet (2021)](https://www.youtube.com/watch?v=9aimRQlVYXo)\
 [Readings from the Latent Spaces (2021)](https://www.instagram.com/tarot_of_the_latent_spaces/)
 
 ##### 2022
 
 [Tarot of the Latent Spaces Update (2022)](https://mercurialminutes.substack.com/p/tarot-of-the-latent-spaces-update)\
 [Tarot of the Latent Spaces Exhibition in Gelegenheit (2022)](https://www.instagram.com/p/CZenVmLtr6z/?igshid=YmMyMTA2M2Y=)\
+⭐ [Gnostic Technology Zine vol. 0 (2022)](https://gnostic.technology/)
 
 ##### ️‍🔥 COMING SOON ️‍🔥 
-[Gnostic Technology Zine vol. 0 (2022)](https://gnostic.technology/)
 [Language in the Age of AI: Deciphering Voynich Manuscript on Trans-States (2022)](https://trans-states.org/speaker/karin-valis/)\
 
 
