@@ -30,10 +30,10 @@
 
 [Tarot of the Latent Spaces Update (2022)](https://mercurialminutes.substack.com/p/tarot-of-the-latent-spaces-update)\
 [Tarot of the Latent Spaces Exhibition in Gelegenheit (2022)](https://www.instagram.com/p/CZenVmLtr6z/?igshid=YmMyMTA2M2Y=)\
-⭐ [Gnostic Technology Zine vol. 0 (2022)](https://gnostic.technology/)
-
-##### ️‍🔥 COMING SOON ️‍🔥 
-[Language in the Age of AI: Deciphering Voynich Manuscript on Trans-States (2022)](https://trans-states.org/speaker/karin-valis/)\
+⭐ [Gnostic Technology Zine vol. 0 (2022)](https://gnostic.technology/)\
+⭐ [Language in the Age of AI: Deciphering Voynich Manuscript on Trans-States (2022)](https://trans-states.org/speaker/karin-valis/)\
+[Telesterion Workshop Berlin: Probing the Third Mind with AI (2022)](https://www.ticketsource.co.uk/theexplorersclub/t-noollod)\
+[The Fabric of Magic Interview with Apiary Studios (2022)](https://apiarystudios.org/antenna/tarot-of-latent-spaces)
 
 
 # Sounds
