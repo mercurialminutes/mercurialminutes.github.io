@@ -41,16 +41,19 @@
 # Sounds
 
 ### 0e20f2
-[0e20f2 Bandcamp](https://0e20f2.bandcamp.com/releases)\
+
+⭐ [0e20f2 Bandcamp](https://0e20f2.bandcamp.com/releases)\
 [0e20f2 A/V @MonomerTV](https://vimeo.com/465105344#t=1400)\
-⭐ [0e20f2 Tape at Industrial Coast](https://industrialcoast.bigcartel.com/product/oe20f2)
+[0e20f2 Tape at Industrial Coast](https://industrialcoast.bigcartel.com/product/oe20f2)
 
 ### Theia Mania
 
-[Theia Mania Instagram](https://www.instagram.com/theia_maniaaa/)
+[Theia Mania Instagram](https://www.instagram.com/theia_maniaaa/)\
+[Theia Mania Mixcloud](https://www.mixcloud.com/theia_mania/)
 
 # Social
 
-⭐ [Mercurial Minutes Instagram](https://www.instagram.com/cannot_cross_water/)\
+⭐ [Mercurial Minutes Instagram](https://www.instagram.com/mercurial_minutes/)\
+[Hermetechnics Inc Instagram](https://www.instagram.com/hermetechnics/)\
 [Tarot of the Latent Spaces Instagram](https://www.instagram.com/tarot_of_the_latent_spaces/)\
 [Goodreads](https://www.goodreads.com/user/show/23194428-karin)
