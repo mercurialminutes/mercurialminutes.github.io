@@ -35,8 +35,8 @@
 [Telesterion Workshop Berlin: Probing the Third Mind with AI (2022)](https://www.ticketsource.co.uk/theexplorersclub/t-noollod)\
 [The Fabric of Magic Interview with Apiary Studios (2022)](https://apiarystudios.org/antenna/tarot-of-latent-spaces)\
 [Berlin Triad Performance at Occulture (2022)](https://occultureconference.com/)\
-[Triggering Anomalies with AI at Science and Consciousness (2022)](https://www.ubiquityuniversity.org/courses/science-and-consciousness-2022-making-wyrd-the-norm/)
-
+[Triggering Anomalies with AI at Science and Consciousness (2022)](https://www.ubiquityuniversity.org/courses/science-and-consciousness-2022-making-wyrd-the-norm/)\
+⭐ [Panel Discussion: Remembering Our Future: Shamanism, Oracles and AI (2022)](https://www.youtube.com/watch?v=kA3BrEDnyAs&t=1s&ab_channel=ICAatNYUShanghai)
 
 # Sounds
 
