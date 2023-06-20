@@ -1,3 +1,5 @@
+Karin Valis is a Berlin-based machine learning engineer and writer with a deep passion for everything occult and weird. Her work focuses mainly on combining technology with the esoteric: projects such as ‘Tarot of the Latent Spaces’ (a deck that uses AI to extract the visual archetypes of Major Arcana) and ‘Cellulare’ (a tool for exploring digital non-ordinary reality for the Foundation for Shamanic Studies Europe). She co-hosted several workshops on Jungian archetypes and divination in digital space. Karin is CTO of an imaginary Silicon Valley startup Hermetechnics Inc and a member of an experimental band Theia Mania. She writes Mercurial Minutes and hosts monthly meetings of the occult and technology enthusiasts ‘Gnostic Technology’.
+
 # Occult
 
 ### Mercurial Minutes
