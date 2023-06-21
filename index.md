@@ -38,7 +38,8 @@ Karin Valis is a Berlin-based machine learning engineer and writer with a deep p
 [The Fabric of Magic Interview with Apiary Studios (2022)](https://apiarystudios.org/antenna/tarot-of-latent-spaces)\
 [Berlin Triad Performance at Occulture (2022)](https://occultureconference.com/)\
 [Triggering Anomalies with AI at Science and Consciousness (2022)](https://www.ubiquityuniversity.org/courses/science-and-consciousness-2022-making-wyrd-the-norm/)\
-⭐ [Panel Discussion: Remembering Our Future: Shamanism, Oracles and AI (2022)](https://www.youtube.com/watch?v=kA3BrEDnyAs&t=1s&ab_channel=ICAatNYUShanghai)
+⭐ [Panel Discussion: Remembering Our Future: Shamanism, Oracles and AI (2022)](https://www.youtube.com/watch?v=kA3BrEDnyAs&t=1s&ab_channel=ICAatNYUShanghai)\
+[Myth and Lore: From Trees to Timbre (2022)](https://www.mythandlore.co.uk/product/myth-lore-zine-issue-4)
 
 # Sounds
 
