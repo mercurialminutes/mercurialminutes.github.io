@@ -1,4 +1,7 @@
-Karin Valis is a Berlin-based machine learning engineer and writer with a deep passion for everything occult and weird. Her work focuses mainly on combining technology with the esoteric: projects such as ‘Tarot of the Latent Spaces’ (a deck that uses AI to extract the visual archetypes of Major Arcana) and ‘Cellulare’ (a tool for exploring digital non-ordinary reality for the Foundation for Shamanic Studies Europe). She co-hosted several workshops on Jungian archetypes and divination in digital space. Karin is CTO of an imaginary Silicon Valley startup Hermetechnics Inc and a member of an experimental band Theia Mania. She writes Mercurial Minutes and hosts monthly meetings of the occult and technology enthusiasts ‘Gnostic Technology’.
+<img width="333" alt="Screenshot 2023-08-22 at 15 33 54" src="https://github.com/mercurialminutes/mercurialminutes.github.io/assets/112952217/860d348a-e20a-4252-a88a-8b4d87da5d19">
+
+
+Karin Valis is a Berlin-based machine learning engineer and writer with a deep passion for everything occult and weird. Her work focuses mainly on combining technology with the esoteric, with projects such as Tarot of the Latent Spaces (visual extraction of the Major Arcana Archetypes) and Cellulare (a tool for exploring digital non-ordinary reality for the Foundation for Shamanic Studies Europe). She co-hosted workshops, talks and panel discussions such as Arana in the Feed (Uroboros 2021), Language in the Age of AI: Deciphering Voynich Manuscript (Trans-States 2022) and Remembering Our Future: Shamanism, Oracles and AI (NYU Shanghai 2022). She writes Mercurial Minutes and hosts monthly meetings of the occult and technology enthusiasts Gnostic Technology.
 
 # Occult
 
@@ -13,20 +16,10 @@ Karin Valis is a Berlin-based machine learning engineer and writer with a deep p
 
 ⭐ [Gnostic Technology](https://gnostic.technology/)
 
-##### 2020
+## Projects
 
-[Towards Networked Communion Publication (2020)](https://issuu.com/fsse/docs/tagungsbuch_2020_en)\
-[Shamanism and Digitalisation Review (2020)](https://www.shamanism.eu/review-conference-shamanism-and-digitalisation/)\
-[Cellulare Source Code (2020)](https://github.com/hermetechnics/cellulare)\
-⭐ [Oracles for Troubling Times: Designing new divination systems (2020)](https://www.youtube.com/watch?v=KxmAd6ByK40)\
-[Go Ask Aliester! (2020)](https://www.instagram.com/p/B_m_QXYHijq/)
-
-##### 2021
-
-⭐ [Tarot of the Latent Spaces (2021)](https://mercurialminutes.substack.com/p/tarot-of-the-latent-spaces-by-hermetechnics)\
-[Veštby zo Silicon Valley (Slovak) (2021)](https://www.facebook.com/events/504827170512030)\
-[Arcana in the Feed: Navigating Internet (2021)](https://www.youtube.com/watch?v=9aimRQlVYXo)\
-[Readings from the Latent Spaces (2021)](https://www.instagram.com/tarot_of_the_latent_spaces/)
+##### 2023
+⭐ [This Podcast is a Ritual: How to make Magic with Machines w/ Karin Valis (2023)](https://open.spotify.com/episode/09YJYahPQsOrt08cD1H0Yf?si=f3b3c9f06e5d476c)
 
 ##### 2022
 
@@ -40,6 +33,22 @@ Karin Valis is a Berlin-based machine learning engineer and writer with a deep p
 [Triggering Anomalies with AI at Science and Consciousness (2022)](https://www.ubiquityuniversity.org/courses/science-and-consciousness-2022-making-wyrd-the-norm/)\
 ⭐ [Panel Discussion: Remembering Our Future: Shamanism, Oracles and AI (2022)](https://www.youtube.com/watch?v=kA3BrEDnyAs&t=1s&ab_channel=ICAatNYUShanghai)\
 [Myth and Lore: From Trees to Timbre (2022)](https://www.mythandlore.co.uk/product/myth-lore-zine-issue-4)
+
+##### 2021
+
+⭐ [Tarot of the Latent Spaces (2021)](https://mercurialminutes.substack.com/p/tarot-of-the-latent-spaces-by-hermetechnics)\
+[Veštby zo Silicon Valley (Slovak) (2021)](https://www.facebook.com/events/504827170512030)\
+[Arcana in the Feed: Navigating Internet Archetypes (2021)](https://www.youtube.com/watch?v=9aimRQlVYXo)\
+[Readings from the Latent Spaces (2021)](https://www.instagram.com/tarot_of_the_latent_spaces/)
+
+##### 2020
+
+[Towards Networked Communion Publication (2020)](https://issuu.com/fsse/docs/tagungsbuch_2020_en)\
+[Shamanism and Digitalisation Review (2020)](https://www.shamanism.eu/review-conference-shamanism-and-digitalisation/)\
+[Cellulare Source Code (2020)](https://github.com/hermetechnics/cellulare)\
+⭐ [Oracles for Troubling Times: Designing new divination systems (2020)](https://www.youtube.com/watch?v=KxmAd6ByK40)\
+[Go Ask Aliester! (2020)](https://www.instagram.com/p/B_m_QXYHijq/)
+
 
 # Sounds
 
