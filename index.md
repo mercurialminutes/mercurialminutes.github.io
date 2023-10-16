@@ -20,10 +20,11 @@ Karin Valis is a Berlin-based machine learning engineer and writer with a deep p
 
 ##### 2023
 
+[Garland of Letters in the Fool (2023)](https://docs.google.com/forms/d/e/1FAIpQLSe_OiS1p7uzf0P4kUlaqQyAz-eEScCA6zkDIYqWMvASgUbCsQ/viewform) \
 ⭐ [Occulture Lecture: Garland of Letters - Sacred Alphabets and AI-Language Models (2023)](https://occultureconference.com/karin-valis/) \
 [Dream Palace Athens: Machine Dreaming - Enhancing dream recall and analysis through generative algorithms (2023)](https://isthisadreampalace.com/SYMPOSIUM) \
 [0xsalon SalonCast005 ::: Prophet Motives (2023)](https://0xsalon.pubpub.org/pub/337byhpy/release/1) \
-⭐ [This Podcast is a Ritual: How to make Magic with Machines w/ Karin Valis (2023)](https://open.spotify.com/episode/09YJYahPQsOrt08cD1H0Yf?si=f3b3c9f06e5d476c)
+[This Podcast is a Ritual: How to make Magic with Machines w/ Karin Valis (2023)](https://open.spotify.com/episode/09YJYahPQsOrt08cD1H0Yf?si=f3b3c9f06e5d476c)
 
 ##### 2022
 
