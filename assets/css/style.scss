@@ -4,13 +4,22 @@
 @import "{{ site.theme }}";
 
 header {
-  border-bottom: 1px dashed red;
+  border-bottom: 1px dashed #aa0000;;
 }
 
 header h1 {
-  color: red;
+  color: #aa0000;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: red;
+  color: #aa0000;;
+}
+
+body{
+  color: #666;
+}
+
+a {
+    color: #666;
+    text-shadow: none;
 }
