@@ -1,7 +1,8 @@
-<img width="333" alt="Screenshot 2023-08-22 at 15 33 54" src="https://github.com/mercurialminutes/mercurialminutes.github.io/assets/112952217/860d348a-e20a-4252-a88a-8b4d87da5d19">
+<img width="333" alt="Screenshot 2023-11-30 at 17 05 53" src="https://github.com/mercurialminutes/mercurialminutes.github.io/assets/112952217/0b7bc336-bc90-407b-ac66-2d1345219d8d">
 
 
 Karin Valis is a freelance Berlin-based(ish) machine learning engineer and writer with a deep passion for everything occult and weird. Her work focuses mainly on combining technology with the esoteric, with projects such as Tarot of the Latent Spaces (visual extraction of the Major Arcana Archetypes) and Cellulare (a tool for exploring digital non-ordinary reality for the Foundation for Shamanic Studies Europe). She co-hosted workshops, talks and panel discussions such as Arana in the Feed (Uroboros 2021), Language in the Age of AI: Deciphering Voynich Manuscript (Trans-States 2022) and Remembering Our Future: Shamanism, Oracles and AI (NYU Shanghai 2022). She writes Mercurial Minutes and hosts monthly meetings of the occult and technology enthusiasts Gnostic Technology.
+
 
 # Occult
 
