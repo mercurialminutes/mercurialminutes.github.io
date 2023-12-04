@@ -21,6 +21,7 @@ Karin Valis is a freelance Berlin-based(ish) machine learning engineer and write
 
 ##### 2023
 
+❗️[SHWEP Oddcast: Karin Valis on Magic and Artificial Intelligence](https://shwep.net/oddcast/karin-valis-on-magic-and-artificial-intelligence/) \
 [Garland of Letters in the Fool (2023)](https://docs.google.com/forms/d/e/1FAIpQLSe_OiS1p7uzf0P4kUlaqQyAz-eEScCA6zkDIYqWMvASgUbCsQ/viewform) \
 ❗️[Occulture Lecture: Garland of Letters - Sacred Alphabets and AI-Language Models (2023)](https://occultureconference.com/karin-valis/) \
 [Dream Palace Athens: Machine Dreaming - Enhancing dream recall and analysis through generative algorithms (2023)](https://isthisadreampalace.com/SYMPOSIUM) \
