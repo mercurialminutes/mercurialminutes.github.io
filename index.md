@@ -16,6 +16,8 @@ Karin Valis is a freelance Berlin-based(ish) machine learning engineer and write
 
 ❗️[Gnostic Technology](https://gnostic.technology/)
 
+---
+
 ## Projects
 
 ##### 2023
@@ -57,6 +59,7 @@ Karin Valis is a freelance Berlin-based(ish) machine learning engineer and write
 ❗️[Oracles for Troubling Times: Designing new divination systems (2020)](https://www.youtube.com/watch?v=KxmAd6ByK40)\
 [Go Ask Aliester! (2020)](https://www.instagram.com/p/B_m_QXYHijq/)
 
+---
 
 # Sounds
 
@@ -72,8 +75,10 @@ Karin Valis is a freelance Berlin-based(ish) machine learning engineer and write
 [Theia Mania Mixcloud](https://www.mixcloud.com/theia_mania/)
 
 ### Eva Kadm0n
-
+[Eva Kadm0n Bandcamp](https://evakadm0n.bandcamp.com/)\
 [Eva Kadm0n Instagram](https://www.instagram.com/evakadm0n/)
+
+---
 
 # Other
 
