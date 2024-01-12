@@ -22,7 +22,7 @@ Karin Valis is a freelance Berlin-based(ish) machine learning engineer and write
 
 ##### 2023
 
-❗️[Gnostic Technology Zine vol. 0 (2023)](https://www.amazon.com/Gnostic-Technology-Zine-vol-Secret/dp/B0CQDKPCSV/)\
+❗️[Gnostic Technology Zine vol. 1 (2023)](https://www.amazon.com/Gnostic-Technology-Zine-vol-Secret/dp/B0CQDKPCSV/)\
 [Document 23: Zine from Art23Magic Retreat (2023)](https://www.blurb.com/b/11842803-document-23-colour-eco) \
 ❗️[SHWEP Oddcast: Karin Valis on Magic and Artificial Intelligence (2023)](https://shwep.net/oddcast/karin-valis-on-magic-and-artificial-intelligence/) \
 [Garland of Letters in the Fool (2023)](https://docs.google.com/forms/d/e/1FAIpQLSe_OiS1p7uzf0P4kUlaqQyAz-eEScCA6zkDIYqWMvASgUbCsQ/viewform) \
