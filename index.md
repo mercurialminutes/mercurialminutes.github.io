@@ -1,5 +1,4 @@
-<img width="333" alt="Screenshot 2023-11-30 at 17 05 53" src="https://github.com/mercurialminutes/mercurialminutes.github.io/assets/112952217/0b7bc336-bc90-407b-ac66-2d1345219d8d">
-
+<img width="666" alt="Screenshot 2024-01-12 at 15 41 44" src="https://github.com/mercurialminutes/mercurialminutes.github.io/assets/112952217/6c8eb9df-4542-47bf-9fe3-f3f7dbb951e7">
 
 Karin Valis is a freelance Berlin-based(ish) machine learning engineer and writer with a deep passion for everything occult and weird. Her work focuses mainly on combining technology with the esoteric, with projects such as Tarot of the Latent Spaces (visual extraction of the Major Arcana Archetypes) and Cellulare (a tool for exploring digital non-ordinary reality for the Foundation for Shamanic Studies Europe). She co-hosted workshops, talks and panel discussions such as Arana in the Feed (Uroboros 2021), Language in the Age of AI: Deciphering Voynich Manuscript (Trans-States 2022) and Remembering Our Future: Shamanism, Oracles and AI (NYU Shanghai 2022). She writes Mercurial Minutes and hosts monthly meetings of the occult and technology enthusiasts Gnostic Technology.
 
@@ -21,7 +20,9 @@ Karin Valis is a freelance Berlin-based(ish) machine learning engineer and write
 
 ##### 2023
 
-❗️[SHWEP Oddcast: Karin Valis on Magic and Artificial Intelligence](https://shwep.net/oddcast/karin-valis-on-magic-and-artificial-intelligence/) \
+❗️[Gnostic Technology Zine vol. 0 (2023)](https://www.amazon.com/Gnostic-Technology-Zine-vol-Secret/dp/B0CQDKPCSV/)\
+[Document 23: Zine from Art23Magic Retreat (2023)](https://www.blurb.com/b/11842803-document-23-colour-eco) \
+❗️[SHWEP Oddcast: Karin Valis on Magic and Artificial Intelligence (2023)](https://shwep.net/oddcast/karin-valis-on-magic-and-artificial-intelligence/) \
 [Garland of Letters in the Fool (2023)](https://docs.google.com/forms/d/e/1FAIpQLSe_OiS1p7uzf0P4kUlaqQyAz-eEScCA6zkDIYqWMvASgUbCsQ/viewform) \
 ❗️[Occulture Lecture: Garland of Letters - Sacred Alphabets and AI-Language Models (2023)](https://occultureconference.com/karin-valis/) \
 [Dream Palace Athens: Machine Dreaming - Enhancing dream recall and analysis through generative algorithms (2023)](https://isthisadreampalace.com/SYMPOSIUM) \
