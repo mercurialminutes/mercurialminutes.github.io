@@ -1,24 +1,28 @@
-<img width="666" alt="Screenshot 2024-01-12 at 15 41 44" src="https://github.com/mercurialminutes/mercurialminutes.github.io/assets/112952217/6c8eb9df-4542-47bf-9fe3-f3f7dbb951e7">
+<img width="333" alt="Screenshot 2024-01-12 at 15 41 44" src="https://github.com/mercurialminutes/mercurialminutes.github.io/assets/112952217/1e61b487-53e2-4697-867a-816648fc70a7">
 
-Karin Valis is a freelance Berlin-based(ish) machine learning engineer and writer with a deep passion for everything occult and weird. Her work focuses mainly on combining technology with the esoteric, with projects such as Tarot of the Latent Spaces (visual extraction of the Major Arcana Archetypes) and Cellulare (a tool for exploring digital non-ordinary reality for the Foundation for Shamanic Studies Europe). She co-hosted workshops, talks and panel discussions such as Arana in the Feed (Uroboros 2021), Language in the Age of AI: Deciphering Voynich Manuscript (Trans-States 2022) and Remembering Our Future: Shamanism, Oracles and AI (NYU Shanghai 2022). She writes Mercurial Minutes and hosts monthly meetings of the occult and technology enthusiasts Gnostic Technology.
-
+Karin Valis is a freelance Berlin-based machine learning engineer and writer with a deep passion for everything occult and weird. Her work focuses mainly on finding conceptual resonances between the latest machine learning technology and the esoteric. She writes [Mercurial Minutes](https://mercurialminutes.substack.com/) and hosts monthly meetings of the occult and technology enthusiasts [Gnostic Technology](https://gnostic.technology/). She co-hosted workshops, talks and panel discussions such as Arana in the Feed (Uroboros 2021), Language in the Age of AI: Deciphering Voynich Manuscript (Trans-States 2022), Remembering Our Future: Shamanism, Oracles and AI (NYU Shanghai 2022), Divine Embeddings: Large Language Models and Sacred Alphabets (Occulture 2023) and Devil in My Language Model (SWPACA 2024). She developed several occult algorithm prototypes, co-founded a fake startup, published zines and designed a tarot deck. 
 
 # Occult
 
 ### Mercurial Minutes
 ❗️[Mercurial Minutes Substack](https://mercurialminutes.substack.com/)
 
+### gnostic.technology
+❗️[Gnostic Technology](https://gnostic.technology/)
+
 ### Hermetechnics Inc.
 [Hermetechnics Inc.](https://www.hermetechnics.life/)\
 [Hermetechnics Inc. Instagram](https://www.instagram.com/hermetechnics/)
 
-### gnostic.technology
-
-❗️[Gnostic Technology](https://gnostic.technology/)
-
 ---
 
 ## Projects
+
+##### 2024
+
+[Devil in my Language Model at SWPACA (2024)](https://southwestpca.org/wp-content/uploads/2024/02/Final-Program-2024.pdf) \
+[Gnostic Technology Showcase in Low Misimo Lodge Silver City (2024)](https://www.instagram.com/p/C3nRyZ9OSCJ/?img_index=3) 
+
 
 ##### 2023
 
