@@ -1,5 +1,8 @@
 <img width="333" alt="Screenshot 2024-01-12 at 15 41 44" src="https://github.com/mercurialminutes/mercurialminutes.github.io/assets/112952217/1e61b487-53e2-4697-867a-816648fc70a7">
 
+> “I use technology in order to hate it more properly.”
+> Nam June Paik
+
 Karin Valis is a freelance Berlin-based machine learning engineer and writer with a deep passion for everything occult and weird. Her work focuses mainly on finding conceptual resonances between the latest machine learning technology and the esoteric. She writes [Mercurial Minutes](https://mercurialminutes.substack.com/) and hosts monthly meetings of the occult and technology enthusiasts [Gnostic Technology](https://gnostic.technology/). She co-hosted workshops, talks and panel discussions such as Arana in the Feed (Uroboros 2021), Language in the Age of AI: Deciphering Voynich Manuscript (Trans-States 2022), Remembering Our Future: Shamanism, Oracles and AI (NYU Shanghai 2022), Divine Embeddings: Large Language Models and Sacred Alphabets (Occulture 2023) and Devil in My Language Model (SWPACA 2024). She developed several occult algorithm prototypes, co-founded a fake startup, published zines and designed a tarot deck. 
 
 # Occult
