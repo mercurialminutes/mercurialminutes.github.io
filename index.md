@@ -29,6 +29,7 @@ Karin Valis is a freelance Berlin-based machine learning engineer and writer wit
 
 ##### 2023
 
+❗️[Garland of Letters - Occulture Recording (2023)](https://www.youtube.com/watch?v=1inYnG8gNVo&ab_channel=OCCULTURECONFERENCE) \
 ❗️[Gnostic Technology Zine vol. 1 (2023)](https://www.amazon.com/Gnostic-Technology-Zine-vol-Secret/dp/B0CQDKPCSV/)\
 [Document 23: Zine from Art23Magic Retreat (2023)](https://www.blurb.com/b/11842803-document-23-colour-eco) \
 ❗️[SHWEP Oddcast: Karin Valis on Magic and Artificial Intelligence (2023)](https://shwep.net/oddcast/karin-valis-on-magic-and-artificial-intelligence/) \
