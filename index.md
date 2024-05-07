@@ -7,6 +7,11 @@ Karin Valis is a freelance Berlin-based machine learning engineer and writer wit
 
 # Occult
 
+### Main Talks (abstracts)
+[Devil in My Language Model 2024](https://mercurialminutes.github.io/devil-in-my-language-model.md) \
+[Garland of Letters: Sacred Alphabets and LLMs 2023](https://mercurialminutes.github.io/garland-of-letters.md) \
+[Language in the Age of AI: Deciphering Voynich Manuscript 2022](https://mercurialminutes.github.io/voynich.md)
+
 ### Mercurial Minutes
 ❗️[Mercurial Minutes Substack](https://mercurialminutes.substack.com/)
 
@@ -23,7 +28,9 @@ Karin Valis is a freelance Berlin-based machine learning engineer and writer wit
 
 ##### 2024
 
-[Devil in my Language Model at SWPACA (2024)](https://southwestpca.org/wp-content/uploads/2024/02/Final-Program-2024.pdf) \
+[Devil in my Language Model at Devil24 Halifax](https://devil2024.co/) \
+❗️[Devil in my Language Model in Fenris Wolf 12](https://www.bygge.trapart.net/?p=672) \
+[Devil in my Language Model at SWPACA Albuquerque (2024)](https://southwestpca.org/wp-content/uploads/2024/02/Final-Program-2024.pdf) \
 [Gnostic Technology Showcase in Low Misimo Lodge Silver City (2024)](https://www.instagram.com/p/C3nRyZ9OSCJ/?img_index=3) 
 
 
