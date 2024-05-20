@@ -29,6 +29,7 @@ New Mutation of the Language Virus: Cut-up method and AI 2024 (WIP) \
 
 ##### 2024
 
+[Kovove Duse (Metal Souls) by Jano Sutavay - AI programming (Galanta, Slovakia, 2024)](https://www.instagram.com/p/C6bEdc5Lz2I/) \
 [New Mutation of the Language Virus: Cutups and AI - Guest Talk in Carl Abrahamsson's and Vanessa Sinclair's Cut Up Masterclass (2024)](https://www.morbidanatomy.org/classes/harnessing-the-magic-and-creative-power-of-the-cut-up-method-a-la-william-burroughs-david-bowie-genesis-p-orridge-led-by-dr-vanessa-sinclair-and-carl-abrahamsson-beginning-may-19) \
 [Devil in my Language Model at Devil24 (Halifax Canada, 2024)](https://devil2024.co/) \
 ❗️[Devil in my Language Model in Fenris Wolf 12 (2024)](https://www.bygge.trapart.net/?p=672) \
