@@ -31,9 +31,12 @@ New Mutation of the Language Virus: Cut-up method and AI 2024 (WIP) \
 
 [Kovove Duse (Metal Souls) by Jano Sutavay - AI programming (Galanta, Slovakia, 2024)](https://www.instagram.com/p/C6bEdc5Lz2I/) \
 [New Mutation of the Language Virus: Cutups and AI - Guest Talk in Carl Abrahamsson's and Vanessa Sinclair's Cut Up Masterclass (2024)](https://www.morbidanatomy.org/classes/harnessing-the-magic-and-creative-power-of-the-cut-up-method-a-la-william-burroughs-david-bowie-genesis-p-orridge-led-by-dr-vanessa-sinclair-and-carl-abrahamsson-beginning-may-19) \
+🎵[Eva Kadm0n & Sarefo in Madame Claude (Berlin, 04.05.2024)](https://www.instagram.com/reel/C6qpjCaCVIq/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) \
 [Devil in my Language Model at Devil24 (Halifax Canada, 2024)](https://devil2024.co/) \
 ❗️[Devil in my Language Model in Fenris Wolf 12 (2024)](https://www.bygge.trapart.net/?p=672) \
+🎵[Eva Kadm0n - Threat Assessment Perspective Single (2024)](https://evakadm0n.bandcamp.com/track/threat-assessment-perspective) \
 [Devil in my Language Model at SWPACA (Albuquerque NM 2024)](https://southwestpca.org/wp-content/uploads/2024/02/Final-Program-2024.pdf) \
+🎵[Eva Kadm0n - Live, Laugh, Lexapro Single (2024)](https://evakadm0n.bandcamp.com/track/live-laugh-lexapro) \
 [Gnostic Technology Showcase in Low Misimo Lodge (Silver City NM, 2024)](https://www.instagram.com/p/C3nRyZ9OSCJ/?img_index=3) 
 
 
@@ -67,6 +70,7 @@ New Mutation of the Language Virus: Cut-up method and AI 2024 (WIP) \
 ❗️[Tarot of the Latent Spaces (2021)](https://mercurialminutes.substack.com/p/tarot-of-the-latent-spaces-by-hermetechnics)\
 [Veštby zo Silicon Valley (Slovak) (2021)](https://www.facebook.com/events/504827170512030)\
 [Arcana in the Feed: Navigating Internet Archetypes (2021)](https://www.youtube.com/watch?v=9aimRQlVYXo)\
+🎵[0e20f2 Pancreas Denial EP](https://0e20f2.bandcamp.com/album/pancreas-denial) \
 [Readings from the Latent Spaces (2021)](https://www.instagram.com/tarot_of_the_latent_spaces/)
 
 ##### 2020
