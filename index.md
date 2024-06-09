@@ -8,10 +8,10 @@ Karin Valis is a freelance Berlin-based machine learning engineer and writer wit
 # Occult
 
 ### Main Talks (abstracts)
-New Mutation of the Language Virus: Cut-up method and AI 2024 (WIP) \
-[Devil in My Language Model 2024](https://mercurialminutes.github.io/devil-in-my-language-model.html) \
-[Garland of Letters: Sacred Alphabets and LLMs 2023](https://mercurialminutes.github.io/garland-of-letters.html) \
-[Language in the Age of AI: Deciphering Voynich Manuscript 2022](https://mercurialminutes.github.io/voynich.html)
+2024 New Mutation of the Language Virus: Cut-up method and AI (WIP) \
+2024 [Devil in My Language Model](https://mercurialminutes.github.io/devil-in-my-language-model.html) \
+2023 [Garland of Letters: Sacred Alphabets and LLMs](https://mercurialminutes.github.io/garland-of-letters.html) \
+2022 [Language in the Age of AI: Deciphering Voynich Manuscript](https://mercurialminutes.github.io/voynich.html)
 
 ### Mercurial Minutes
 ❗️[Mercurial Minutes Substack](https://mercurialminutes.substack.com/)
