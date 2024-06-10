@@ -114,4 +114,5 @@ Karin Valis is a freelance Berlin-based machine learning engineer and writer wit
 ### Werk
 
 [LinkedIn](https://www.linkedin.com/in/karin-v-038b5795/) \
-❗️[Occult/Art CV](https://github.com/mercurialminutes/mercurialminutes.github.io/files/13515076/Valis-Art-Occult.pdf)
+❗️[Occult/Art CV](https://github.com/user-attachments/files/15765064/Valis-occult-cv-jun24.pdf)
+
