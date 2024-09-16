@@ -3,41 +3,58 @@
 > “I use technology in order to hate it more properly.”
 > Nam June Paik
 
-Karin Valis is a freelance Berlin-based machine learning engineer and writer with a deep passion for everything occult and weird. Her work focuses mainly on finding conceptual resonances between the latest machine learning technology and the esoteric. She writes [Mercurial Minutes](https://mercurialminutes.substack.com/) and hosts monthly meetings of the occult and technology enthusiasts [Gnostic Technology](https://gnostic.technology/). She co-hosted workshops, talks and panel discussions such as Arana in the Feed (Uroboros 2021), Language in the Age of AI: Deciphering Voynich Manuscript (Trans-States 2022), Remembering Our Future: Shamanism, Oracles and AI (NYU Shanghai 2022), Divine Embeddings: Large Language Models and Sacred Alphabets (Occulture 2023) and Devil in My Language Model (SWPACA 2024). She developed several occult algorithm prototypes, co-founded a fake startup, published zines and designed a tarot deck. 
+Karin Valis is a freelance Berlin-based machine learning engineer and writer with a deep passion for everything occult and weird. Her work focuses mainly on finding conceptual resonances between the latest machine learning technology and the esoteric. She writes [Mercurial Minutes](https://mercurialminutes.substack.com/) and hosts monthly meetings of an online coven  [Gnostic Technology](https://gnostic.technology/). She is the AI architect behind [Palinode Productions](https://www.palinode.productions/), a platform for Deep Learning Philosophy and she co-hosts a special series of [Thoth Hermes Podcast](https://thothermes.com/episodes/s11-e1-ai-and-the-occult-karin-valis/) on interfaces between Science and the Occult. 
+
+</br>
+She hosted workshops, talks and panel discussions such as Arana in the Feed (Uroboros 2021), Language in the Age of AI: Deciphering Voynich Manuscript (Trans-States 2022), Remembering Our Future: Shamanism, Oracles and AI (NYU Shanghai 2022), Divine Embeddings: Large Language Models and Sacred Alphabets (Occulture 2023) and Devil in My Language Model (SWPACA, Devil24 2024). She developed several occult algorithm prototypes, co-founded a fake startup, published zines and designed a tarot deck. 
 
 # Occult
 
 ### Main Talks (abstracts)
-2024 New Mutation of the Language Virus: Cut-up method and AI (WIP) \
+2024 [New Mutation of the Language Virus: Cut-up method and AI](https://mercurialminutes.substack.com/p/new-mutation-of-the-language-virus) \
 2024 [Devil in My Language Model](https://mercurialminutes.github.io/devil-in-my-language-model.html) \
 2023 [Garland of Letters: Sacred Alphabets and LLMs](https://mercurialminutes.github.io/garland-of-letters.html) \
 2022 [Language in the Age of AI: Deciphering Voynich Manuscript](https://mercurialminutes.github.io/voynich.html)
 
+---
+
 ### Mercurial Minutes
 ❗️[Mercurial Minutes Substack](https://mercurialminutes.substack.com/)
 
+### Palinode Productions
+[Palinode Productions Introduction](https://mercurialminutes.substack.com/p/deep-learning-philosophy) \
+❗️[Palinode Productions Website](https://www.palinode.productions/)
+
 ### gnostic.technology
 ❗️[Gnostic Technology](https://gnostic.technology/)
+
+### Thoth Hermes Podcast
+[S11E1 - AI and the Occult Interview with Karin Valis](https://thothermes.com/episodes/s11-e1-ai-and-the-occult-karin-valis/)
 
 ### Hermetechnics Inc.
 [Hermetechnics Inc.](https://www.hermetechnics.life/)\
 [Hermetechnics Inc. Instagram](https://www.instagram.com/hermetechnics/)
 
----
 
 ## Projects
 
 ##### 2024
 
+[ESP Research Unit Experiment Group (2024)](https://forms.gle/AE9MrmauNz8JxFbo7) \
+[Time Loops Book Club (2024)](https://forms.gle/MLZRDmUrV2GCqGot9) \
+❗️[Thoth Hermes Podcast - AI and the Occult Interview (2024)](https://thothermes.com/episodes/s11-e1-ai-and-the-occult-karin-valis/) \
 [Kovove Duse (Metal Souls) by Jano Sutavay - AI programming (Galanta, Slovakia, 2024)](https://www.instagram.com/p/C6bEdc5Lz2I/) \
 [New Mutation of the Language Virus: Cutups and AI - Guest Talk in Carl Abrahamsson's and Vanessa Sinclair's Cut Up Masterclass (2024)](https://www.morbidanatomy.org/classes/harnessing-the-magic-and-creative-power-of-the-cut-up-method-a-la-william-burroughs-david-bowie-genesis-p-orridge-led-by-dr-vanessa-sinclair-and-carl-abrahamsson-beginning-may-19) \
-🎵[Eva Kadm0n & Sarefo in Madame Claude (Berlin, 04.05.2024)](https://www.instagram.com/reel/C6qpjCaCVIq/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) \
 [Devil in my Language Model at Devil24 (Halifax Canada, 2024)](https://devil2024.co/) \
-❗️[Devil in my Language Model in Fenris Wolf 12 (2024)](https://www.bygge.trapart.net/?p=672) \
-🎵[Eva Kadm0n - Threat Assessment Perspective Single (2024)](https://evakadm0n.bandcamp.com/track/threat-assessment-perspective) \
+❗️[Devil in my Language Model in Fenris Wolf 12 (2024)](https://www.amazon.com/Fenris-Wolf-12-Carl-Abrahamsson/dp/9198945076) \
 [Devil in my Language Model at SWPACA (Albuquerque NM 2024)](https://southwestpca.org/wp-content/uploads/2024/02/Final-Program-2024.pdf) \
+[Gnostic Technology Showcase in Low Misimo Lodge (Silver City NM, 2024)](https://www.instagram.com/p/C3nRyZ9OSCJ/?img_index=3) \
+\
+🎵[Thunder Perfect: Full Moon Witches Night in Madame Claude (Berlin, 17.08.2024)](https://madameclaude.de/event/eva-kadmon-friday-cate-hopsdj-set/) \
+🎵[Eva Kadm0n -They Still Shoot Horses Album + Zine (2024)](https://evakadm0n.bandcamp.com/album/they-still-shoot-horses) \
+🎵[Eva Kadm0n & Sarefo in Madame Claude (Berlin, 04.05.2024)](https://www.instagram.com/reel/C6qpjCaCVIq/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) \
+🎵[Eva Kadm0n - Threat Assessment Perspective Single (2024)](https://evakadm0n.bandcamp.com/track/threat-assessment-perspective) \
 🎵[Eva Kadm0n - Live, Laugh, Lexapro Single (2024)](https://evakadm0n.bandcamp.com/track/live-laugh-lexapro) \
-[Gnostic Technology Showcase in Low Misimo Lodge (Silver City NM, 2024)](https://www.instagram.com/p/C3nRyZ9OSCJ/?img_index=3) 
 
 
 ##### 2023
@@ -85,6 +102,10 @@ Karin Valis is a freelance Berlin-based machine learning engineer and writer wit
 
 # Sounds
 
+### Eva Kadm0n
+[Eva Kadm0n Bandcamp](https://evakadm0n.bandcamp.com/)\
+[Eva Kadm0n Instagram](https://www.instagram.com/evakadm0n/)
+
 ### 0e20f2
 
 ❗️[0e20f2 Bandcamp](https://0e20f2.bandcamp.com/releases)\
@@ -96,11 +117,6 @@ Karin Valis is a freelance Berlin-based machine learning engineer and writer wit
 [Theia Mania Instagram](https://www.instagram.com/theia_maniaaa/)\
 [Theia Mania Mixcloud](https://www.mixcloud.com/theia_mania/)
 
-### Eva Kadm0n
-[Eva Kadm0n Bandcamp](https://evakadm0n.bandcamp.com/)\
-[Eva Kadm0n Instagram](https://www.instagram.com/evakadm0n/)
-
----
 
 # Other
 
