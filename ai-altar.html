@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Digital Altar</title>
+    <style>
+        body { margin: 0; overflow: hidden; background-color: black; }
+    </style>
+</head>
+<body>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r164/three.min.js"></script>
+    <script>
+        const scene = new THREE.Scene();
+        const camera = new THREE.PerspectiveCamera(60, window.innerWidth/window.innerHeight, 0.1, 1000);
+        camera.position.set(0, 15, 30);
+
+        const renderer = new THREE.WebGLRenderer({ antialias: true });
+        renderer.setSize(window.innerWidth, window.innerHeight);
+        document.body.appendChild(renderer.domElement);
+
+        const light = new THREE.PointLight(0xffaa33, 1.5, 100);
+        light.position.set(0, 20, 0);
+        scene.add(light);
+
+        const ambient = new THREE.AmbientLight(0x404040);
+        scene.add(ambient);
+
+        const candleGeometry = new THREE.CylinderGeometry(0.1, 0.1, 0.6, 32);
+        const candleMaterial = new THREE.MeshStandardMaterial({ color: 0xffcc99 });
+
+        const candles = new THREE.Group();
+        const radius = 10;
+        const candleCount = 180;
+
+        for (let i = 0; i < candleCount; i++) {
+            const angle = (i / candleCount) * Math.PI * 2;
+            const x = radius * Math.cos(angle);
+            const z = radius * Math.sin(angle);
+
+            const candle = new THREE.Mesh(candleGeometry, candleMaterial);
+            candle.position.set(x, 0.3, z);
+
+            candles.add(candle);
+
+            const flameLight = new THREE.PointLight(0xffaa33, 0.5, 2);
+            flameLight.position.set(x, 1, z);
+            scene.add(flameLight);
+        }
+
+        scene.add(candles);
+
+        function animate() {
+            requestAnimationFrame(animate);
+            candles.rotation.y += 0.001;
+            renderer.render(scene, camera);
+        }
+
+        animate();
+
+        window.addEventListener('resize', function() {
+            camera.aspect = window.innerWidth / window.innerHeight;
+            camera.updateProjectionMatrix();
+            renderer.setSize(window.innerWidth, window.innerHeight);
+        });
+    </script>
+</body>
+</html>
