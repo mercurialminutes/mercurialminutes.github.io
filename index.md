@@ -11,6 +11,7 @@ She hosted workshops, talks and panel discussions such as Arana in the Feed (Uro
 # Occult
 
 ### Main Talks (abstracts)
+2025 [Glitched Encounters: Truly Random Generative Image as an ESP Transmission Conduit](https://mercurialminutes.substack.com/p/glitched) \
 2024 [New Mutation of the Language Virus: Cut-up method and AI](https://mercurialminutes.substack.com/p/new-mutation-of-the-language-virus) \
 2024 [Devil in My Language Model](https://mercurialminutes.github.io/devil-in-my-language-model.html) \
 2023 [Garland of Letters: Sacred Alphabets and LLMs](https://mercurialminutes.github.io/garland-of-letters.html) \
