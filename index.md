@@ -55,9 +55,7 @@ Karin Valis is a freelance Berlin-based machine learning engineer and writer wit
 [Devil in my Language Model at SWPACA (Albuquerque NM 2024)](https://southwestpca.org/wp-content/uploads/2024/02/Final-Program-2024.pdf) \
 [Gnostic Technology Showcase in Low Misimo Lodge (Silver City NM, 2024)](https://www.instagram.com/p/C3nRyZ9OSCJ/?img_index=3) \
 \
-🎵[Thunder Perfect: Full Moon Witches Night in Madame Claude (Berlin, 17.08.2024)](https://madameclaude.de/event/eva-kadmon-friday-cate-hopsdj-set/) \
 🎵[Eva Kadm0n -They Still Shoot Horses Album + Zine (2024)](https://evakadm0n.bandcamp.com/album/they-still-shoot-horses) \
-🎵[Eva Kadm0n & Sarefo in Madame Claude (Berlin, 04.05.2024)](https://www.instagram.com/reel/C6qpjCaCVIq/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) \
 🎵[Eva Kadm0n - Threat Assessment Perspective Single (2024)](https://evakadm0n.bandcamp.com/track/threat-assessment-perspective) \
 🎵[Eva Kadm0n - Live, Laugh, Lexapro Single (2024)](https://evakadm0n.bandcamp.com/track/live-laugh-lexapro) \
 
