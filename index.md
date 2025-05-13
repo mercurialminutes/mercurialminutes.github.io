@@ -3,10 +3,7 @@
 > “I use technology in order to hate it more properly.”
 > Nam June Paik
 
-Karin Valis is a freelance Berlin-based machine learning engineer and writer with a deep passion for everything occult and weird. Her work focuses mainly on finding conceptual resonances between the latest machine learning technology and the esoteric. She writes [Mercurial Minutes](https://mercurialminutes.substack.com/) and hosts monthly meetings of an online coven  [Gnostic Technology](https://gnostic.technology/). She is the AI architect behind [Palinode Productions](https://www.palinode.productions/), a platform for Deep Learning Philosophy and she co-hosts a special series of [Thoth Hermes Podcast](https://thothermes.com/episodes/s11-e1-ai-and-the-occult-karin-valis/) on interfaces between Science and the Occult. 
-
-</br>
-She hosted workshops, talks and panel discussions such as Arana in the Feed (Uroboros 2021), Language in the Age of AI: Deciphering Voynich Manuscript (Trans-States 2022), Remembering Our Future: Shamanism, Oracles and AI (NYU Shanghai 2022), Divine Embeddings: Large Language Models and Sacred Alphabets (Occulture 2023) and Devil in My Language Model (SWPACA, Devil24 2024). She developed several occult algorithm prototypes, co-founded a fake startup, published zines and designed a tarot deck. 
+Karin Valis is a freelance Berlin-based machine learning engineer and writer with a deep passion for everything occult and weird. Her work focuses mainly on finding conceptual resonances between the latest machine learning technology and the esoteric. She writes [Mercurial Minutes](https://mercurialminutes.substack.com/) and hosts monthly meetings of an online coven  [Gnostic Technology](https://gnostic.technology/). She worked on several projects with creative studio [sub](https://sub.global/) and is the AI architect behind Khora algorithm by [Palinode Productions](https://www.palinode.productions/), a platform for Deep Learning Philosophy. She developed several occult algorithm prototypes, co-hosted a podcast, co-founded a fake startup, published zines and designed a tarot deck.
 
 # Occult
 
@@ -30,7 +27,10 @@ She hosted workshops, talks and panel discussions such as Arana in the Feed (Uro
 ❗️[Gnostic Technology](https://gnostic.technology/)
 
 ### Thoth Hermes Podcast
-[S11E1 - AI and the Occult Interview with Karin Valis](https://thothermes.com/episodes/s11-e1-ai-and-the-occult-karin-valis/)
+[S11E1 - AI and the Occult Interview with Karin Valis](https://thothermes.com/episodes/s11-e1-ai-and-the-occult-karin-valis/) \
+[S11E2 - Thinking impossibly with Jeffrey Kripal](https://thothermes.castos.com/episodes/s11-e2-thinking-impossibly-jeffrey-kripal) \
+[S11E3 - Remember the Future with Eric Wargo](https://thothermes.castos.com/episodes/s11-e3-remember-the-future-eric-wargo) \
+[S11E4 - Noetic Sciences with Dean Radin](https://thothermes.castos.com/episodes/s11-e5-dean-radin-noetic-sciences) 
 
 ### Hermetechnics Inc.
 [Hermetechnics Inc.](https://www.hermetechnics.life/)\
@@ -38,6 +38,10 @@ She hosted workshops, talks and panel discussions such as Arana in the Feed (Uro
 
 
 ## Projects
+
+
+##### 2025
+[RENSEP Blog: Glitched Encounters - Artificial Intelligence and Non-local Consciousness](https://www.instagram.com/p/DEu2Bd5tnYO/) 
 
 ##### 2024
 
@@ -123,7 +127,7 @@ She hosted workshops, talks and panel discussions such as Arana in the Feed (Uro
 
 ### Social
 
-❗️[Mercurial Minutes Instagram](https://www.instagram.com/mercurial_minutes/)\
+❗️[Mercurial Minutes Instagram](https://www.instagram.com/karin.valis/)\
 [Hermetechnics Inc Instagram](https://www.instagram.com/hermetechnics/)\
 [Tarot of the Latent Spaces Instagram](https://www.instagram.com/tarot_of_the_latent_spaces/)\
 [Goodreads](https://www.goodreads.com/user/show/23194428-karin) 
