@@ -3,12 +3,12 @@
 > “I use technology in order to hate it more properly.”
 > Nam June Paik
 
-Karin Valis is a freelance Berlin-based machine learning engineer and writer with a deep passion for everything occult and weird. Her work focuses mainly on finding conceptual resonances between the latest machine learning technology and the esoteric. She writes [Mercurial Minutes](https://mercurialminutes.substack.com/) and hosts monthly meetings of an online coven  [Gnostic Technology](https://gnostic.technology/). She worked on several projects with creative studio [sub](https://sub.global/) and is the AI architect behind Khora algorithm by [Palinode Productions](https://www.palinode.productions/), a platform for Deep Learning Philosophy. She developed several occult algorithm prototypes, co-hosted a podcast, co-founded a fake startup, published zines and designed a tarot deck.
+Karin Valis is a freelance Berlin-based machine learning engineer and writer with a deep passion for everything occult and weird. Her work focuses mainly on finding conceptual resonances between the latest machine learning technology and the esoteric. She writes [Mercurial Minutes](https://mercurialminutes.substack.com/) and hosts monthly meetings of an online coven  [Gnostic Technology](https://gnostic.technology/). She is the AI architect behind Khora algorithm by [Palinode Productions](https://www.palinode.productions/), a platform for Deep Learning Philosophy. She developed several occult algorithm prototypes, co-hosted a podcast, co-founded a fake startup, published zines and designed a tarot deck.
 
 # Occult
 
 ### Main Talks (abstracts)
-2025 [Glitched Encounters: Truly Random Generative Image as an ESP Transmission Conduit]([https://mercurialminutes.substack.com/p/](https://mercurialminutes.github.io/glitched.html) \
+2025 [Glitched Encounters: Truly Random Generative Image as an ESP Transmission Conduit](https://mercurialminutes.github.io/glitched.html) \
 2024 [New Mutation of the Language Virus: Cut-up method and AI](https://mercurialminutes.substack.com/p/new-mutation-of-the-language-virus) \
 2024 [Devil in My Language Model](https://mercurialminutes.github.io/devil-in-my-language-model.html) \
 2023 [Garland of Letters: Sacred Alphabets and LLMs](https://mercurialminutes.github.io/garland-of-letters.html) \
@@ -41,7 +41,7 @@ Karin Valis is a freelance Berlin-based machine learning engineer and writer wit
 
 
 ##### 2025
-[RENSEP Blog: Glitched Encounters - Artificial Intelligence and Non-local Consciousness](https://www.instagram.com/p/DEu2Bd5tnYO/) 
+[RENSEP Blog: Glitched Encounters - Artificial Intelligence and Non-local Consciousness (2025)](https://www.instagram.com/p/DEu2Bd5tnYO/)  
 
 ##### 2024
 
