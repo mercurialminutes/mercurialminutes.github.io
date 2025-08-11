@@ -41,12 +41,24 @@ Karin Valis is a freelance Berlin-based machine learning engineer and writer wit
 
 
 ##### 2025
-[RENSEP Blog: Glitched Encounters - Artificial Intelligence and Non-local Consciousness (2025)](https://www.instagram.com/p/DEu2Bd5tnYO/)  
+❗️[sub: Spatial Intelligence for Venice Biennale Architettura (Venice, 2025)](https://www.instagram.com/reel/DM-B_IOICtP/) \
+❗️[Rendering Unconscious: RU354: KARIN VALIS ON AI & PSYCHOANALYSIS, CUT-UPS & MAGIC](https://www.patreon.com/posts/ru354-karin-on-133344692?) \
+❗️[Mystic and Muons 37: Karin Valis - AI, Consciousness, and the Occult (2025)](https://youtu.be/tp-m4wxNwRE?si=e3ZwQBKe0sOzd9k8) \
+[Magic, Ritual, and Witchcraft: Book Review for Errand into the Wilderness of Mirrors: Religion and the History of the CIA by Michael Graziano (2025)](https://muse.jhu.edu/pub/56/article/965585/pdf) \
+[The Khora Pod: John Shook and Karin Valis on AI, Pragmatism, and the Future of Higher Education (Calabria, 2025)](https://khorapod.buzzsprout.com/2466735/episodes/16908068-john-shook-on-ai-pragmatism-and-the-future-of-higher-education) \
+❗️[Rituals of Play - Simulation all the Way Down: How LLMs create and collapse worlds (Manchester, 2025)](https://manchestergamecentre.org/events/2025/6/12/multiplatform-2025-rituals-of-play-shaping-alternative-futures-with-games-and-occulture) \
+[University of Calabria - AI and the Future of Higher Education: Presenting Khora (2025)](https://www.lacnews24.it/attualita/scuola-e-intelligenza-artificiale-allunical-un-seminario-sulle-metodologie-fondamentali-per-governare-il-progresso-tecnologico-g4uqaaks) \
+[RENSEP Blog: Glitched Encounters - Artificial Intelligence and Non-local Consciousness (2025)](https://www.instagram.com/p/DEu2Bd5tnYO/) \
+[Glitched Encounters: Truly Random Generative Image as an ESP Transmission Conduit at SWPACA (Albuquerque NM 2025)](https://drive.google.com/file/d/1f1Emf12MgxTVYTlvfq1IXnU6LsL5wU1e/view) \
+[Gnostic Technology Showcase in Low Misimo Lodge (Silver City NM, 2025)](https://www.instagram.com/p/C3nRyZ9OSCJ/?img_index=3) \
+\
+🎵[Eva Kadm0n x evangeline.irl - Diminishing Expectations Video (2025)](https://www.youtube.com/watch?v=6fd4HEVcEOY&list=RD6fd4HEVcEOY)
+
+
 
 ##### 2024
 
 [ESP Research Unit Experiment Group (2024)](https://forms.gle/AE9MrmauNz8JxFbo7) \
-[Time Loops Book Club (2024)](https://forms.gle/MLZRDmUrV2GCqGot9) \
 ❗️[Thoth Hermes Podcast - AI and the Occult Interview (2024)](https://thothermes.com/episodes/s11-e1-ai-and-the-occult-karin-valis/) \
 [Kovove Duse (Metal Souls) by Jano Sutavay - AI programming (Galanta, Slovakia, 2024)](https://www.instagram.com/p/C6bEdc5Lz2I/) \
 [New Mutation of the Language Virus: Cutups and AI - Guest Talk in Carl Abrahamsson's and Vanessa Sinclair's Cut Up Masterclass (2024)](https://www.morbidanatomy.org/classes/harnessing-the-magic-and-creative-power-of-the-cut-up-method-a-la-william-burroughs-david-bowie-genesis-p-orridge-led-by-dr-vanessa-sinclair-and-carl-abrahamsson-beginning-may-19) \
@@ -57,7 +69,7 @@ Karin Valis is a freelance Berlin-based machine learning engineer and writer wit
 \
 🎵[Eva Kadm0n -They Still Shoot Horses Album + Zine (2024)](https://evakadm0n.bandcamp.com/album/they-still-shoot-horses) \
 🎵[Eva Kadm0n - Threat Assessment Perspective Single (2024)](https://evakadm0n.bandcamp.com/track/threat-assessment-perspective) \
-🎵[Eva Kadm0n - Live, Laugh, Lexapro Single (2024)](https://evakadm0n.bandcamp.com/track/live-laugh-lexapro) \
+🎵[Eva Kadm0n - Live, Laugh, Lexapro Single (2024)](https://evakadm0n.bandcamp.com/track/live-laugh-lexapro) 
 
 
 ##### 2023
