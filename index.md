@@ -3,7 +3,7 @@
 > “I use technology in order to hate it more properly.”
 > Nam June Paik
 
-Karin Valis is a freelance Berlin-based machine learning engineer and writer with a deep passion for everything occult and weird. Her work focuses mainly on finding conceptual resonances between the latest machine learning technology and the esoteric. She writes [Mercurial Minutes](https://mercurialminutes.substack.com/) and hosts monthly meetings of an online coven  [Gnostic Technology](https://gnostic.technology/). She is the AI architect behind Khora algorithm by [Palinode Productions](https://www.palinode.productions/), a platform for Deep Learning Philosophy. She developed several occult algorithm prototypes, co-hosted a podcast, co-founded a fake startup, published zines and designed a tarot deck.
+Karin Valis is a freelance Berlin-based machine learning engineer and writer with a deep passion for everything occult and weird. Her work focuses mainly on finding conceptual resonances between the latest machine learning technology and the esoteric. She writes [Mercurial Minutes](https://mercurialminutes.substack.com/) and hosts monthly meetings of an online coven  [Gnostic Technology](https://gnostic.technology/). She is the AI architect behind Khora algorithm by [Palinode](https://www.palinode.org/), a platform for Deep Learning Philosophy. She developed several occult algorithm prototypes, co-hosted a podcast, co-founded a fake startup, published zines and designed a tarot deck.
 
 # Occult
 
@@ -41,8 +41,12 @@ Karin Valis is a freelance Berlin-based machine learning engineer and writer wit
 
 
 ##### 2025
+❗️[Occulture: Devil in My Language Model (Berlin, 2025)](https://occultureconference.com/karin-valis-2/) \
+[The Line: The Ghosts in the Machine - on the spooky side of AI (2025)](https://www.youtube.com/live/89gzz4_-Q38) \
+[Occulted S2E2: Karin Valis on AI, World-making, and Playing with Ghosts in the Machine (2025)](https://www.spucchi.com/occulted-s2e1-karin-valis-on-ai-world-making-and-playing-with-ghosts-in-the-machine/) \
+[Hurry Up We're Dreaming: Synthetic Symbols (2025)](https://hurryupweredreaming.com/issues/3/synthetic-symbols-how-machines-can-learn-to-cast-spells) \
 ❗️[sub: Spatial Intelligence for Venice Biennale Architettura (Venice, 2025)](https://www.instagram.com/reel/DM-B_IOICtP/) \
-❗️[Rendering Unconscious: RU354: KARIN VALIS ON AI & PSYCHOANALYSIS, CUT-UPS & MAGIC](https://www.patreon.com/posts/ru354-karin-on-133344692?) \
+❗️[Rendering Unconscious: RU354: KARIN VALIS ON AI & PSYCHOANALYSIS, CUT-UPS & MAGIC (2025)](https://www.patreon.com/posts/ru354-karin-on-133344692?) \
 ❗️[Mystic and Muons 37: Karin Valis - AI, Consciousness, and the Occult (2025)](https://youtu.be/tp-m4wxNwRE?si=e3ZwQBKe0sOzd9k8) \
 [Magic, Ritual, and Witchcraft: Book Review for Errand into the Wilderness of Mirrors: Religion and the History of the CIA by Michael Graziano (2025)](https://muse.jhu.edu/pub/56/article/965585/pdf) \
 [The Khora Pod: John Shook and Karin Valis on AI, Pragmatism, and the Future of Higher Education (Calabria, 2025)](https://khorapod.buzzsprout.com/2466735/episodes/16908068-john-shook-on-ai-pragmatism-and-the-future-of-higher-education) \
