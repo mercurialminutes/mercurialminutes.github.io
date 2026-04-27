@@ -4,32 +4,54 @@
 @import "{{ site.theme }}";
 
 header {
-  border-bottom: 1px dashed #aa0000;;
+  border-bottom: 1px solid #ececf1;
+  margin-bottom: 1.75rem;
+  padding-bottom: 0.5rem;
 }
 
 hr {
-    border-bottom: 1px dashed #999;
-    color: #999;
+  border: 0;
+  border-bottom: 1px solid #ececf1;
+  margin: 2rem 0;
 }
 
 header h1 {
-  color: #aa0000;
+  color: #111;
+  letter-spacing: 0.01em;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #aa0000;
+  color: #111;
   text-shadow: none !important;
+  font-weight: 500;
 }
 
-body{
-  color: #999 !important;
-  font-family: "Times New Roman", Times, serif !important;
+body {
+  color: #4f4f58 !important;
+  font-family: Georgia, "Times New Roman", Times, serif !important;
   text-shadow: none !important;
-  background: #111 !important;
+  background: #fff !important;
+  line-height: 1.7;
 }
 
 a {
-    color: #999;
-    text-shadow: none;
-    text-decoration: none;
+  color: #7a7a86;
+  text-shadow: none;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+a:hover,
+a:focus-visible {
+  color: #3a3a44;
+  border-bottom-color: #d8d8de;
+}
+
+.home {
+  max-width: 860px;
+}
+
+.home p {
+  margin-bottom: 1rem;
 }
