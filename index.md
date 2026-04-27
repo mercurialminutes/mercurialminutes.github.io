@@ -1,7 +1,4 @@
-<img width="333" alt="Screenshot 2024-01-12 at 15 41 44" src="https://github.com/mercurialminutes/mercurialminutes.github.io/assets/112952217/1e61b487-53e2-4697-867a-816648fc70a7">
-
-> “I use technology in order to hate it more properly.”
-> Nam June Paik
+<img width="333" alt="IMG_6583" src="https://github.com/user-attachments/assets/92b62b36-0fe7-48c7-bcd0-850243a46805" />
 
 Karin Valis is a freelance Berlin-based machine learning engineer and writer with a deep passion for everything occult and weird. Her work focuses mainly on finding conceptual resonances between the latest machine learning technology and the esoteric. She writes [Mercurial Minutes](https://mercurialminutes.substack.com/) and hosts monthly meetings of an online coven [Gnostic Technology](https://gnostic.technology/). She's currently developing [soup](https://www.is-this-soup.com/), helping her write a book on Esoteric AI (to be published in 2027). She also built Khora algorithm by [Palinode](https://www.palinode.org/), a platform for Deep Learning Philosophy, and she's the mother of AI in [MOODS](https://moods.world/). In the past decade she developed several occult algorithm prototypes, co-hosted a podcast, co-founded a fake startup, published zines, performed a bunch of noise shows in dingy Berlin basements and designed a tarot deck.
 
