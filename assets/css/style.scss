@@ -32,6 +32,38 @@ body {
   text-shadow: none !important;
   background: #fff !important;
   line-height: 1.7;
+  position: relative;
+  overflow-x: hidden;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: -25%;
+  pointer-events: none;
+  z-index: -1;
+  opacity: 0.28;
+  background:
+    radial-gradient(circle at 20% 25%, rgba(244, 240, 255, 0.6) 0%, rgba(244, 240, 255, 0) 55%),
+    radial-gradient(circle at 80% 75%, rgba(236, 246, 255, 0.55) 0%, rgba(236, 246, 255, 0) 60%),
+    radial-gradient(circle at 55% 45%, rgba(255, 248, 242, 0.45) 0%, rgba(255, 248, 242, 0) 58%);
+  transform: translate3d(0, 0, 0) scale(1.05);
+  animation: angel-drift 48s ease-in-out infinite alternate;
+}
+
+@keyframes angel-drift {
+  from {
+    transform: translate3d(-1.5%, -1%, 0) scale(1.05);
+  }
+  to {
+    transform: translate3d(1.5%, 1%, 0) scale(1.08);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  body::before {
+    animation: none;
+  }
 }
 
 a {
@@ -48,6 +80,7 @@ a:focus-visible {
   border-bottom-color: #d8d8de;
 }
 
+/* Keep the homepage extra airy/minimal without touching altar page styles. */
 .home {
   max-width: 860px;
 }
