@@ -153,6 +153,11 @@ void main() {
   vec3 sheen = 0.5 + 0.5 * cos(6.28318 * (v * 0.55 + c4 * 0.2 + vec3(0.02, 0.3, 0.58)));
   float lum = dot(sheen, vec3(0.299, 0.587, 0.114));
   sheen = mix(vec3(lum), sheen, 0.32);
+  // green fringes → steel / grey-blue (lip stays untouched)
+  float gPush = max(0.0, sheen.g - max(sheen.r, sheen.b));
+  sheen.g -= gPush * 0.9;
+  sheen.b += gPush * 0.7;
+  sheen.r += gPush * 0.12;
   col = mix(col, col * sheen, smoothstep(0.25, 0.95, ridge) * 0.16);
 
   // single lip-rose vein — quieter, drifts left more slowly
@@ -192,6 +197,11 @@ void main() {
   float lum = dot(tint, vec3(0.299, 0.587, 0.114));
   tint = mix(vec3(lum), tint, 0.38);
   tint = mix(vec3(0.88, 0.885, 0.9), tint, 0.55);
+  // green wash → steel blue
+  float gPush = max(0.0, tint.g - max(tint.r, tint.b));
+  tint.g -= gPush * 0.9;
+  tint.b += gPush * 0.7;
+  tint.r += gPush * 0.12;
 
   float ridge = clamp(v, 0.0, 1.8);
   float a = 0.04 + ridge * 0.15 + c4 * 0.035;
