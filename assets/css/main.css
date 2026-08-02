@@ -33,10 +33,10 @@ body {
   font-family: var(--font);
   color: var(--ink);
   background:
-    radial-gradient(ellipse 80% 60% at 18% 12%, rgba(255, 255, 255, 0.95) 0%, transparent 55%),
-    radial-gradient(ellipse 70% 50% at 88% 78%, rgba(220, 228, 240, 0.55) 0%, transparent 55%),
-    radial-gradient(ellipse 50% 40% at 50% 45%, rgba(245, 242, 255, 0.35) 0%, transparent 60%),
-    linear-gradient(180deg, #faf9f7 0%, #f0eff2 100%);
+    radial-gradient(ellipse 80% 60% at 18% 12%, rgba(248, 250, 255, 0.95) 0%, transparent 55%),
+    radial-gradient(ellipse 70% 50% at 88% 78%, rgba(210, 222, 236, 0.55) 0%, transparent 55%),
+    radial-gradient(ellipse 50% 40% at 50% 45%, rgba(228, 236, 246, 0.32) 0%, transparent 60%),
+    linear-gradient(180deg, #f6f7fa 0%, #eceff4 100%);
   background-attachment: fixed;
   overflow-x: hidden;
   -webkit-font-smoothing: antialiased;
@@ -178,15 +178,6 @@ body {
   }
 
   .panel {
-    --node-fill: rgba(255, 255, 255, 0.03);
-    --node-border: linear-gradient(
-      125deg,
-      rgba(255, 255, 255, 0.32) 0%,
-      rgba(160, 165, 175, 0.24) 25%,
-      rgba(175, 165, 185, 0.22) 50%,
-      rgba(145, 160, 185, 0.2) 75%,
-      rgba(210, 210, 215, 0.3) 100%
-    );
     --lx: 50%;
     --ly: 50%;
     --light: 0;
@@ -196,22 +187,12 @@ body {
     z-index: 15;
     max-height: calc(100vh - 5rem);
     overflow: auto;
-    border: 0.5px solid transparent;
-    border-radius: 0;
-    background:
-      linear-gradient(var(--node-fill), var(--node-fill)) padding-box,
-      var(--node-border) border-box;
-    backdrop-filter: blur(3px) saturate(1.08);
-    -webkit-backdrop-filter: blur(3px) saturate(1.08);
-    box-shadow: none;
     cursor: grab;
     touch-action: none;
   }
 
   .panel.is-dragging {
     cursor: grabbing;
-    --node-fill: rgba(255, 255, 255, 0.06);
-    box-shadow: 0 10px 32px rgba(20, 20, 30, 0.1);
   }
 
   .panel .box-coords {
@@ -331,30 +312,41 @@ body {
     margin: 0;
   }
 
-  /* window-boxes: almost invisible panes + hairline iridescent edge */
+  /* liquid glass — clear, rim-lit, no milky wash (Apple-style web approx) */
+  .glass-svg {
+    position: absolute;
+    width: 0;
+    height: 0;
+    overflow: hidden;
+  }
+
+  .panel,
+  .node,
+  .photo-window {
+    border: none;
+    border-radius: 0;
+    background: rgba(210, 222, 236, 0.04);
+    backdrop-filter: blur(2px) saturate(1.4) brightness(1.03);
+    -webkit-backdrop-filter: blur(2px) saturate(1.4) brightness(1.03);
+    box-shadow: 0 10px 28px rgba(28, 36, 52, 0.1);
+  }
+
+  @supports (backdrop-filter: url(#liquid-glass)) {
+    .panel,
+    .node,
+    .photo-window {
+      backdrop-filter: blur(1.25px) saturate(1.45) brightness(1.02) url(#liquid-glass);
+      -webkit-backdrop-filter: blur(1.25px) saturate(1.45) brightness(1.02) url(#liquid-glass);
+    }
+  }
+
+  /* window-boxes */
   .node {
-    --node-fill: rgba(255, 255, 255, 0.015);
-    --node-border: linear-gradient(
-      125deg,
-      rgba(255, 255, 255, 0.28) 0%,
-      rgba(160, 165, 175, 0.22) 25%,
-      rgba(175, 165, 185, 0.2) 50%,
-      rgba(145, 160, 185, 0.18) 75%,
-      rgba(210, 210, 215, 0.26) 100%
-    );
     --node-font: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, Consolas, monospace;
     position: fixed;
     left: 0;
     top: 0;
     pointer-events: auto;
-    border: 0.5px solid transparent;
-    border-radius: 0;
-    background:
-      linear-gradient(var(--node-fill), var(--node-fill)) padding-box,
-      var(--node-border) border-box;
-    backdrop-filter: blur(2px) saturate(1.05);
-    -webkit-backdrop-filter: blur(2px) saturate(1.05);
-    box-shadow: none;
     transform: none;
     cursor: grab;
     user-select: none;
@@ -382,13 +374,12 @@ body {
     pointer-events: none;
     z-index: 2;
     background: radial-gradient(
-      520px circle at var(--lx, 50%) var(--ly, 50%),
-      rgba(255, 255, 255, 0.48) 0%,
-      rgba(235, 238, 248, 0.22) 28%,
-      rgba(220, 225, 235, 0.08) 55%,
-      transparent 78%
+      420px circle at var(--lx, 50%) var(--ly, 50%),
+      rgba(255, 255, 255, 0.22) 0%,
+      rgba(255, 255, 255, 0.06) 32%,
+      transparent 62%
     );
-    mix-blend-mode: soft-light;
+    mix-blend-mode: overlay;
     opacity: var(--light, 0);
     transition: opacity 0.05s linear;
   }
@@ -410,21 +401,14 @@ body {
   }
 
   .node:hover {
-    --node-fill: rgba(255, 255, 255, 0.05);
-    --node-border: linear-gradient(
-      125deg,
-      rgba(255, 255, 255, 0.4) 0%,
-      rgba(170, 180, 200, 0.32) 30%,
-      rgba(190, 170, 200, 0.28) 55%,
-      rgba(220, 220, 225, 0.38) 100%
-    );
-    box-shadow: 0 0 18px rgba(190, 200, 220, 0.1);
+    box-shadow: 0 14px 34px rgba(20, 22, 30, 0.1);
   }
 
-  .node.is-dragging {
+  .node.is-dragging,
+  .panel.is-dragging,
+  .photo-window.is-dragging {
     cursor: grabbing;
-    --node-fill: rgba(255, 255, 255, 0.06);
-    box-shadow: 0 8px 28px rgba(20, 20, 30, 0.08);
+    box-shadow: 0 16px 40px rgba(20, 22, 30, 0.12);
   }
 
   .node a {
@@ -456,10 +440,6 @@ body {
     padding: 0;
     border: none;
     background: none;
-  }
-
-  .node.is-highlight {
-    --node-fill: rgba(255, 255, 255, 0.025);
   }
 
   .node.is-highlight .node-year::after {
@@ -552,15 +532,6 @@ body {
 
 @media (min-width: 901px) {
   .photo-window {
-    --node-fill: rgba(255, 255, 255, 0.02);
-    --node-border: linear-gradient(
-      125deg,
-      rgba(255, 255, 255, 0.28) 0%,
-      rgba(160, 165, 175, 0.22) 25%,
-      rgba(175, 165, 185, 0.2) 50%,
-      rgba(145, 160, 185, 0.18) 75%,
-      rgba(210, 210, 215, 0.26) 100%
-    );
     --lx: 50%;
     --ly: 50%;
     --light: 0;
@@ -571,21 +542,8 @@ body {
     width: 220px;
     aspect-ratio: 1;
     overflow: hidden;
-    border: 0.5px solid transparent;
-    border-radius: 0;
-    background:
-      linear-gradient(var(--node-fill), var(--node-fill)) padding-box,
-      var(--node-border) border-box;
-    backdrop-filter: blur(2px) saturate(1.05);
-    -webkit-backdrop-filter: blur(2px) saturate(1.05);
     cursor: grab;
     touch-action: none;
-  }
-
-  .photo-window.is-dragging {
-    cursor: grabbing;
-    --node-fill: rgba(255, 255, 255, 0.05);
-    box-shadow: 0 8px 28px rgba(20, 20, 30, 0.1);
   }
 
   .photo-window .box-coords {

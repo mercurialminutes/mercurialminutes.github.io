@@ -134,9 +134,10 @@ void main() {
   float c4 = class4(p * 1.05, t);
   float v = veins(p * 1.4, t);
 
-  vec3 ivory  = vec3(0.945, 0.938, 0.925);
-  vec3 marrow = vec3(0.84, 0.828, 0.808);
-  vec3 ink    = vec3(0.38, 0.37, 0.365);
+  // cool bone — steel / grey-blue undertone (lip vein stays warm)
+  vec3 ivory  = vec3(0.935, 0.940, 0.952);
+  vec3 marrow = vec3(0.815, 0.828, 0.848);
+  vec3 ink    = vec3(0.32, 0.36, 0.42);
 
   float shade = smoothstep(-0.75, 0.9, f);
   vec3 col = mix(marrow, ivory, shade);
@@ -145,20 +146,20 @@ void main() {
   col = mix(col, ivory, c4 * 0.1);
 
   float ridge = clamp(v, 0.0, 2.0);
-  col = mix(col, vec3(0.96, 0.955, 0.945), pow(smoothstep(0.05, 1.05, ridge), 1.25) * 0.78);
+  col = mix(col, vec3(0.95, 0.955, 0.968), pow(smoothstep(0.05, 1.05, ridge), 1.25) * 0.78);
 
   float seam = pow(smoothstep(0.3, 1.35, ridge), 1.65);
   col = mix(col, ink, seam * (0.32 + 0.12 * c4));
 
-  vec3 sheen = 0.5 + 0.5 * cos(6.28318 * (v * 0.55 + c4 * 0.2 + vec3(0.02, 0.3, 0.58)));
+  vec3 sheen = 0.5 + 0.5 * cos(6.28318 * (v * 0.55 + c4 * 0.2 + vec3(0.48, 0.58, 0.72)));
   float lum = dot(sheen, vec3(0.299, 0.587, 0.114));
-  sheen = mix(vec3(lum), sheen, 0.32);
+  sheen = mix(vec3(lum), sheen, 0.28);
   // green fringes → steel / grey-blue (lip stays untouched)
   float gPush = max(0.0, sheen.g - max(sheen.r, sheen.b));
   sheen.g -= gPush * 0.9;
-  sheen.b += gPush * 0.7;
-  sheen.r += gPush * 0.12;
-  col = mix(col, col * sheen, smoothstep(0.25, 0.95, ridge) * 0.16);
+  sheen.b += gPush * 0.75;
+  sheen.r += gPush * 0.08;
+  col = mix(col, col * sheen, smoothstep(0.25, 0.95, ridge) * 0.14);
 
   // single lip-rose vein — quieter, drifts left more slowly
   vec3 lip = vec3(0.72, 0.34, 0.40);
@@ -196,12 +197,12 @@ void main() {
   vec3 tint = 0.5 + 0.5 * cos(6.28318 * (f * 0.35 + v * 0.2 + c4 * 0.12 + vec3(0.0, 0.33, 0.67)));
   float lum = dot(tint, vec3(0.299, 0.587, 0.114));
   tint = mix(vec3(lum), tint, 0.38);
-  tint = mix(vec3(0.88, 0.885, 0.9), tint, 0.55);
+  tint = mix(vec3(0.84, 0.875, 0.92), tint, 0.55);
   // green wash → steel blue
   float gPush = max(0.0, tint.g - max(tint.r, tint.b));
   tint.g -= gPush * 0.9;
-  tint.b += gPush * 0.7;
-  tint.r += gPush * 0.12;
+  tint.b += gPush * 0.75;
+  tint.r += gPush * 0.08;
 
   float ridge = clamp(v, 0.0, 1.8);
   float a = 0.04 + ridge * 0.15 + c4 * 0.035;
