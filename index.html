@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Karin Valis — Mercurial Minutes</title>
+  <meta name="description" content="Karin Valis — machine learning engineer, writer, occult & weird." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=IBM+Plex+Mono:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/css/main.css" />
+</head>
+<body>
+  <canvas id="shader-bg" aria-hidden="true"></canvas>
+  <div class="grain" aria-hidden="true"></div>
+
+  <header class="year-bar" role="navigation" aria-label="Filter projects by year">
+    <div class="year-scroll">
+      <button type="button" class="year-chip is-active" data-year="all">!</button>
+      <!-- year chips injected by JS -->
+    </div>
+  </header>
+
+  <main class="stage">
+    <article class="panel" id="panel">
+      <header class="panel-hero">
+        <div class="panel-copy">
+          <p class="eyebrow">Mercurial Minutes</p>
+          <h1 class="chrome-text">Karin Valis</h1>
+          <p class="tagline">spiritually wealthy xenophile</p>
+          <p class="bio" id="bio"></p>
+        </div>
+      </header>
+
+      <div class="tabs" role="tablist" aria-label="Panel sections">
+        <button type="button" class="tab is-active" role="tab" aria-selected="true" aria-controls="tab-highlights" id="tab-btn-highlights" data-tab="highlights">Highlights</button>
+        <button type="button" class="tab" role="tab" aria-selected="false" aria-controls="tab-upcoming" id="tab-btn-upcoming" data-tab="upcoming">Upcoming</button>
+        <button type="button" class="tab" role="tab" aria-selected="false" aria-controls="tab-socials" id="tab-btn-socials" data-tab="socials">Socials</button>
+      </div>
+
+      <div class="tab-panels">
+        <section class="tab-panel is-active" role="tabpanel" id="tab-highlights" aria-labelledby="tab-btn-highlights">
+          <ul class="list" id="list-highlights"></ul>
+        </section>
+        <section class="tab-panel" role="tabpanel" id="tab-upcoming" aria-labelledby="tab-btn-upcoming" hidden>
+          <ul class="list" id="list-upcoming"></ul>
+        </section>
+        <section class="tab-panel" role="tabpanel" id="tab-socials" aria-labelledby="tab-btn-socials" hidden>
+          <ul class="list list-socials" id="list-socials"></ul>
+        </section>
+      </div>
+
+    </article>
+
+    <figure class="photo-window" id="photo-window">
+      <img
+        id="portrait"
+        src="assets/img/portrait.jpg"
+        alt="Portrait of Karin Valis"
+        width="333"
+        height="333"
+        draggable="false"
+      />
+    </figure>
+  </main>
+
+  <nav class="constellation" id="constellation" aria-label="Projects">
+    <h2 class="constellation-title">Projects</h2>
+    <ul class="node-list" id="node-list">
+      <li class="node is-highlight" data-year="2026"><a href="https://www.dazeddigital.com/art-photography/article/69674/1/radically-rethink-what-means-to-make-art-restless-egg-technology-berlin-deepmind" target="_blank" rel="noopener noreferrer"><span class="node-year">2026</span>Restless Egg Salon</a></li>
+      <li class="node" data-year="2026"><a href="https://www.is-this-soup.com/" target="_blank" rel="noopener noreferrer"><span class="node-year">2026</span>soup waitlist</a></li>
+      <li class="node is-highlight" data-year="2025"><a href="https://www.youtube.com/watch?v=Q3_VeZwyZSk" target="_blank" rel="noopener noreferrer"><span class="node-year">2025</span>Occulture: Devil in My Language Model</a></li>
+      <li class="node" data-year="2025"><a href="https://www.youtube.com/live/89gzz4_-Q38" target="_blank" rel="noopener noreferrer"><span class="node-year">2025</span>The Ghosts in the Machine</a></li>
+      <li class="node" data-year="2025"><a href="https://www.spucchi.com/occulted-s2e1-karin-valis-on-ai-world-making-and-playing-with-ghosts-in-the-machine/" target="_blank" rel="noopener noreferrer"><span class="node-year">2025</span>Occulted S2E2: AI, World-making, Ghosts</a></li>
+      <li class="node" data-year="2025"><a href="https://hurryupweredreaming.com/issues/3/synthetic-symbols-how-machines-can-learn-to-cast-spells" target="_blank" rel="noopener noreferrer"><span class="node-year">2025</span>Synthetic Symbols</a></li>
+      <li class="node is-highlight" data-year="2025"><a href="https://www.instagram.com/reel/DM-B_IOICtP/" target="_blank" rel="noopener noreferrer"><span class="node-year">2025</span>sub: Spatial Intelligence, Venice Biennale</a></li>
+      <li class="node is-highlight" data-year="2025"><a href="https://www.patreon.com/posts/ru354-karin-on-133344692?" target="_blank" rel="noopener noreferrer"><span class="node-year">2025</span>RU354: AI &amp; Psychoanalysis, Cut-ups &amp; Magic</a></li>
+      <li class="node" data-year="2025"><a href="https://youtu.be/tp-m4wxNwRE?si=e3ZwQBKe0sOzd9k8" target="_blank" rel="noopener noreferrer"><span class="node-year">2025</span>Mystic and Muons 37: AI, Consciousness, Occult</a></li>
+      <li class="node" data-year="2025"><a href="https://muse.jhu.edu/pub/56/article/965585/pdf" target="_blank" rel="noopener noreferrer"><span class="node-year">2025</span>Book Review: Errand into the Wilderness of Mirrors</a></li>
+      <li class="node" data-year="2025"><a href="https://khorapod.buzzsprout.com/2466735/episodes/16908068-john-shook-on-ai-pragmatism-and-the-future-of-higher-education" target="_blank" rel="noopener noreferrer"><span class="node-year">2025</span>The Khora Pod: AI, Pragmatism, Higher Ed</a></li>
+      <li class="node is-highlight" data-year="2025"><a href="https://manchestergamecentre.org/events/2025/6/12/multiplatform-2025-rituals-of-play-shaping-alternative-futures-with-games-and-occulture" target="_blank" rel="noopener noreferrer"><span class="node-year">2025</span>Rituals of Play — Simulation all the Way Down</a></li>
+      <li class="node" data-year="2025"><a href="https://www.lacnews24.it/attualita/scuola-e-intelligenza-artificiale-allunical-un-seminario-sulle-metodologie-fondamentali-per-governare-il-progresso-tecnologico-g4uqaaks" target="_blank" rel="noopener noreferrer"><span class="node-year">2025</span>University of Calabria — Presenting Khora</a></li>
+      <li class="node" data-year="2025"><a href="https://www.instagram.com/p/DEu2Bd5tnYO/" target="_blank" rel="noopener noreferrer"><span class="node-year">2025</span>RENSEP: Glitched Encounters</a></li>
+      <li class="node" data-year="2025"><a href="https://drive.google.com/file/d/1f1Emf12MgxTVYTlvfq1IXnU6LsL5wU1e/view" target="_blank" rel="noopener noreferrer"><span class="node-year">2025</span>Glitched Encounters at SWPACA</a></li>
+      <li class="node" data-year="2025"><a href="https://www.instagram.com/p/C3nRyZ9OSCJ/?img_index=3" target="_blank" rel="noopener noreferrer"><span class="node-year">2025</span>Gnostic Technology Showcase (2025)</a></li>
+      <li class="node is-music" data-year="2025"><a href="https://www.youtube.com/watch?v=6fd4HEVcEOY&amp;list=RD6fd4HEVcEOY" target="_blank" rel="noopener noreferrer"><span class="node-year">2025</span>Diminishing Expectations Video</a></li>
+      <li class="node" data-year="2024"><a href="https://forms.gle/AE9MrmauNz8JxFbo7" target="_blank" rel="noopener noreferrer"><span class="node-year">2024</span>ESP Research Unit Experiment Group</a></li>
+      <li class="node is-highlight" data-year="2024"><a href="https://thothermes.com/episodes/s11-e1-ai-and-the-occult-karin-valis/" target="_blank" rel="noopener noreferrer"><span class="node-year">2024</span>Thoth Hermes Podcast — AI and the Occult</a></li>
+      <li class="node" data-year="2024"><a href="https://www.instagram.com/p/C6bEdc5Lz2I/" target="_blank" rel="noopener noreferrer"><span class="node-year">2024</span>Kovove Duse — AI programming</a></li>
+      <li class="node" data-year="2024"><a href="https://www.morbidanatomy.org/classes/harnessing-the-magic-and-creative-power-of-the-cut-up-method-a-la-william-burroughs-david-bowie-genesis-p-orridge-led-by-dr-vanessa-sinclair-and-carl-abrahamsson-beginning-may-19" target="_blank" rel="noopener noreferrer"><span class="node-year">2024</span>New Mutation of the Language Virus</a></li>
+      <li class="node" data-year="2024"><a href="https://devil2024.co/" target="_blank" rel="noopener noreferrer"><span class="node-year">2024</span>Devil in my Language Model at Devil24</a></li>
+      <li class="node is-highlight" data-year="2024"><a href="https://www.amazon.com/Fenris-Wolf-12-Carl-Abrahamsson/dp/9198945076" target="_blank" rel="noopener noreferrer"><span class="node-year">2024</span>Devil in my Language Model in Fenris Wolf 12</a></li>
+      <li class="node" data-year="2024"><a href="https://southwestpca.org/wp-content/uploads/2024/02/Final-Program-2024.pdf" target="_blank" rel="noopener noreferrer"><span class="node-year">2024</span>Devil in my Language Model at SWPACA</a></li>
+      <li class="node" data-year="2024"><a href="https://www.instagram.com/p/C3nRyZ9OSCJ/?img_index=3" target="_blank" rel="noopener noreferrer"><span class="node-year">2024</span>Gnostic Technology Showcase (2024)</a></li>
+      <li class="node is-music" data-year="2024"><a href="https://evakadm0n.bandcamp.com/album/they-still-shoot-horses" target="_blank" rel="noopener noreferrer"><span class="node-year">2024</span>They Still Shoot Horses Album + Zine</a></li>
+      <li class="node is-music" data-year="2024"><a href="https://evakadm0n.bandcamp.com/track/threat-assessment-perspective" target="_blank" rel="noopener noreferrer"><span class="node-year">2024</span>Threat Assessment Perspective</a></li>
+      <li class="node is-music" data-year="2024"><a href="https://evakadm0n.bandcamp.com/track/live-laugh-lexapro" target="_blank" rel="noopener noreferrer"><span class="node-year">2024</span>Live, Laugh, Lexapro</a></li>
+      <li class="node is-highlight" data-year="2023"><a href="https://www.youtube.com/watch?v=1inYnG8gNVo&amp;ab_channel=OCCULTURECONFERENCE" target="_blank" rel="noopener noreferrer"><span class="node-year">2023</span>Garland of Letters — Occulture Recording</a></li>
+      <li class="node is-highlight" data-year="2023"><a href="https://www.amazon.com/Gnostic-Technology-Zine-vol-Secret/dp/B0CQDKPCSV/" target="_blank" rel="noopener noreferrer"><span class="node-year">2023</span>Gnostic Technology Zine vol. 1</a></li>
+      <li class="node" data-year="2023"><a href="https://www.blurb.com/b/11842803-document-23-colour-eco" target="_blank" rel="noopener noreferrer"><span class="node-year">2023</span>Document 23: Zine from Art23Magic Retreat</a></li>
+      <li class="node is-highlight" data-year="2023"><a href="https://shwep.net/oddcast/karin-valis-on-magic-and-artificial-intelligence/" target="_blank" rel="noopener noreferrer"><span class="node-year">2023</span>SHWEP Oddcast: Magic and Artificial Intelligence</a></li>
+      <li class="node" data-year="2023"><a href="https://docs.google.com/forms/d/e/1FAIpQLSe_OiS1p7uzf0P4kUlaqQyAz-eEScCA6zkDIYqWMvASgUbCsQ/viewform" target="_blank" rel="noopener noreferrer"><span class="node-year">2023</span>Garland of Letters in the Fool</a></li>
+      <li class="node is-highlight" data-year="2023"><a href="https://occultureconference.com/karin-valis/" target="_blank" rel="noopener noreferrer"><span class="node-year">2023</span>Occulture Lecture: Garland of Letters</a></li>
+      <li class="node" data-year="2023"><a href="https://isthisadreampalace.com/SYMPOSIUM" target="_blank" rel="noopener noreferrer"><span class="node-year">2023</span>Dream Palace Athens: Machine Dreaming</a></li>
+      <li class="node" data-year="2023"><a href="https://0xsalon.pubpub.org/pub/337byhpy/release/1" target="_blank" rel="noopener noreferrer"><span class="node-year">2023</span>0xsalon SalonCast005 ::: Prophet Motives</a></li>
+      <li class="node" data-year="2023"><a href="https://open.spotify.com/episode/09YJYahPQsOrt08cD1H0Yf?si=f3b3c9f06e5d476c" target="_blank" rel="noopener noreferrer"><span class="node-year">2023</span>This Podcast is a Ritual: Magic with Machines</a></li>
+      <li class="node" data-year="2022"><a href="https://mercurialminutes.substack.com/p/tarot-of-the-latent-spaces-update" target="_blank" rel="noopener noreferrer"><span class="node-year">2022</span>Tarot of the Latent Spaces Update</a></li>
+      <li class="node" data-year="2022"><a href="https://www.instagram.com/p/CZenVmLtr6z/?igshid=YmMyMTA2M2Y=" target="_blank" rel="noopener noreferrer"><span class="node-year">2022</span>Tarot of the Latent Spaces Exhibition</a></li>
+      <li class="node is-highlight" data-year="2022"><a href="https://gnostic.technology/" target="_blank" rel="noopener noreferrer"><span class="node-year">2022</span>Gnostic Technology Zine vol. 0</a></li>
+      <li class="node is-highlight" data-year="2022"><a href="https://trans-states.org/speaker/karin-valis/" target="_blank" rel="noopener noreferrer"><span class="node-year">2022</span>Deciphering Voynich Manuscript on Trans-States</a></li>
+      <li class="node" data-year="2022"><a href="https://www.ticketsource.co.uk/theexplorersclub/t-noollod" target="_blank" rel="noopener noreferrer"><span class="node-year">2022</span>Telesterion Workshop: Probing the Third Mind</a></li>
+      <li class="node" data-year="2022"><a href="https://apiarystudios.org/antenna/tarot-of-latent-spaces" target="_blank" rel="noopener noreferrer"><span class="node-year">2022</span>The Fabric of Magic Interview</a></li>
+      <li class="node" data-year="2022"><a href="https://occultureconference.com/" target="_blank" rel="noopener noreferrer"><span class="node-year">2022</span>Berlin Triad Performance at Occulture</a></li>
+      <li class="node" data-year="2022"><a href="https://www.ubiquityuniversity.org/courses/science-and-consciousness-2022-making-wyrd-the-norm/" target="_blank" rel="noopener noreferrer"><span class="node-year">2022</span>Triggering Anomalies with AI</a></li>
+      <li class="node is-highlight" data-year="2022"><a href="https://www.youtube.com/watch?v=kA3BrEDnyAs&amp;t=1s&amp;ab_channel=ICAatNYUShanghai" target="_blank" rel="noopener noreferrer"><span class="node-year">2022</span>Remembering Our Future: Shamanism, Oracles and AI</a></li>
+      <li class="node" data-year="2022"><a href="https://www.mythandlore.co.uk/product/myth-lore-zine-issue-4" target="_blank" rel="noopener noreferrer"><span class="node-year">2022</span>Myth and Lore: From Trees to Timbre</a></li>
+      <li class="node is-highlight" data-year="2021"><a href="https://mercurialminutes.substack.com/p/tarot-of-the-latent-spaces-by-hermetechnics" target="_blank" rel="noopener noreferrer"><span class="node-year">2021</span>Tarot of the Latent Spaces</a></li>
+      <li class="node" data-year="2021"><a href="https://www.facebook.com/events/504827170512030" target="_blank" rel="noopener noreferrer"><span class="node-year">2021</span>Veštby zo Silicon Valley</a></li>
+      <li class="node" data-year="2021"><a href="https://www.youtube.com/watch?v=9aimRQlVYXo" target="_blank" rel="noopener noreferrer"><span class="node-year">2021</span>Arcana in the Feed</a></li>
+      <li class="node is-music" data-year="2021"><a href="https://0e20f2.bandcamp.com/album/pancreas-denial" target="_blank" rel="noopener noreferrer"><span class="node-year">2021</span>0e20f2 Pancreas Denial EP</a></li>
+      <li class="node" data-year="2021"><a href="https://www.instagram.com/tarot_of_the_latent_spaces/" target="_blank" rel="noopener noreferrer"><span class="node-year">2021</span>Readings from the Latent Spaces</a></li>
+      <li class="node" data-year="2020"><a href="https://issuu.com/fsse/docs/tagungsbuch_2020_en" target="_blank" rel="noopener noreferrer"><span class="node-year">2020</span>Towards Networked Communion</a></li>
+      <li class="node" data-year="2020"><a href="https://www.shamanism.eu/review-conference-shamanism-and-digitalisation/" target="_blank" rel="noopener noreferrer"><span class="node-year">2020</span>Shamanism and Digitalisation Review</a></li>
+      <li class="node" data-year="2020"><a href="https://github.com/hermetechnics/cellulare" target="_blank" rel="noopener noreferrer"><span class="node-year">2020</span>Cellulare Source Code</a></li>
+      <li class="node is-highlight" data-year="2020"><a href="https://www.youtube.com/watch?v=KxmAd6ByK40" target="_blank" rel="noopener noreferrer"><span class="node-year">2020</span>Oracles for Troubling Times</a></li>
+      <li class="node" data-year="2020"><a href="https://www.instagram.com/p/B_m_QXYHijq/" target="_blank" rel="noopener noreferrer"><span class="node-year">2020</span>Go Ask Aliester!</a></li>
+    </ul>
+  </nav>
+
+  <canvas id="shader-overlay" aria-hidden="true"></canvas>
+
+  <script src="assets/js/data.js"></script>
+  <script src="assets/js/shader-bg.js"></script>
+  <script src="assets/js/boxes.js"></script>
+  <script src="assets/js/ui.js"></script>
+</body>
+</html>
