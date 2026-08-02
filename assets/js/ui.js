@@ -45,13 +45,20 @@
     });
   }
 
+  function linkAttrs(url) {
+    const external = /^https?:\/\//i.test(url) && !/mercurialminutes\.github\.io/i.test(url);
+    return external
+      ? ` href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer"`
+      : ` href="${escapeHtml(url)}"`;
+  }
+
   function initHighlights() {
     const ul = document.getElementById("list-highlights");
     if (!ul) return;
     ul.innerHTML = (data.highlights || [])
       .map(
         (h) =>
-          `<li><span class="meta">${h.year}</span><a href="${escapeHtml(h.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(h.title)}</a></li>`
+          `<li><span class="meta">${h.year}</span><a${linkAttrs(h.url)}>${escapeHtml(h.title)}</a></li>`
       )
       .join("");
   }
@@ -71,12 +78,18 @@
   }
 
   function initSocials() {
-    const ul = document.getElementById("list-socials");
-    if (!ul) return;
-    ul.innerHTML = (data.socials || [])
-      .map((s) => {
-        const cls = s.primary ? "is-primary" : "";
-        return `<li><a class="${cls}" href="${escapeHtml(s.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(s.label)}</a></li>`;
+    const root = document.getElementById("list-socials");
+    if (!root) return;
+    const groups = data.socials || [];
+    root.innerHTML = groups
+      .map((group) => {
+        const items = (group.items || [])
+          .map((s) => {
+            const mark = s.primary ? `<span class="meta">!</span>` : `<span class="meta">·</span>`;
+            return `<li>${mark}<a href="${escapeHtml(s.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(s.label)}</a></li>`;
+          })
+          .join("");
+        return `<section class="social-group"><h3 class="social-topic">${escapeHtml(group.topic)}</h3><ul class="list">${items}</ul></section>`;
       })
       .join("");
   }

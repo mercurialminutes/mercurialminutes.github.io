@@ -6,7 +6,7 @@ window.SITE_DATA = {
   highlights: [
     {
       title: "Glitched Encounters: Truly Random Generative Image as an ESP Transmission Conduit",
-      url: "https://mercurialminutes.github.io/glitched.html",
+      url: "glitched.html",
       year: 2025,
     },
     {
@@ -16,17 +16,17 @@ window.SITE_DATA = {
     },
     {
       title: "Devil in My Language Model",
-      url: "https://mercurialminutes.github.io/devil-in-my-language-model.html",
+      url: "devil-in-my-language-model.html",
       year: 2024,
     },
     {
       title: "Garland of Letters: Sacred Alphabets and LLMs",
-      url: "https://mercurialminutes.github.io/garland-of-letters.html",
+      url: "garland-of-letters.html",
       year: 2023,
     },
     {
       title: "Language in the Age of AI: Deciphering Voynich Manuscript",
-      url: "https://mercurialminutes.github.io/voynich.html",
+      url: "voynich.html",
       year: 2022,
     },
   ],
@@ -51,26 +51,41 @@ window.SITE_DATA = {
     },
   ],
   socials: [
-    { label: "Mercurial Minutes Substack", url: "https://mercurialminutes.substack.com/", primary: true },
-    { label: "Mercurial Minutes Instagram", url: "https://www.instagram.com/karin.valis/", primary: true },
-    { label: "soup waitlist", url: "https://www.is-this-soup.com/", primary: true },
-    { label: "soup Instagram", url: "https://www.instagram.com/is.this.soup/", primary: false },
-    { label: "MOODS Ritual Technology", url: "https://moods.world/", primary: true },
-    { label: "Moods Instagram", url: "https://www.instagram.com/moods.codex/", primary: false },
-    { label: "Moods Substack", url: "https://moodscodex.substack.com/", primary: false },
-    { label: "Khora", url: "https://search.khora.world/", primary: true },
-    { label: "Palinode Productions", url: "https://www.palinode.productions/", primary: false },
-    { label: "Khora Notes", url: "https://palinode.substack.com/", primary: false },
-    { label: "Gnostic Technology", url: "https://gnostic.technology/", primary: true },
-    { label: "Hermetechnics Inc.", url: "https://www.hermetechnics.life/", primary: false },
-    { label: "Hermetechnics Instagram", url: "https://www.instagram.com/hermetechnics/", primary: false },
-    { label: "Tarot of the Latent Spaces Instagram", url: "https://www.instagram.com/tarot_of_the_latent_spaces/", primary: false },
-    { label: "Eva Kadm0n Bandcamp", url: "https://evakadm0n.bandcamp.com/", primary: false },
-    { label: "Eva Kadm0n Instagram", url: "https://www.instagram.com/evakadm0n/", primary: false },
-    { label: "0e20f2 Bandcamp", url: "https://0e20f2.bandcamp.com/releases", primary: true },
-    { label: "LinkedIn", url: "https://www.linkedin.com/in/karin-v-038b5795/", primary: false },
-    { label: "Occult/Art CV", url: "https://github.com/user-attachments/files/15765064/Valis-occult-cv-jun24.pdf", primary: true },
-    { label: "Goodreads", url: "https://www.goodreads.com/user/show/23194428-karin", primary: false },
+    {
+      topic: "Socials",
+      items: [
+        { label: "Mercurial Minutes Substack", url: "https://mercurialminutes.substack.com/", primary: true },
+        { label: "Mercurial Minutes Instagram", url: "https://www.instagram.com/karin.valis/", primary: true },
+      ],
+    },
+    {
+      topic: "Work",
+      items: [
+        { label: "Khora", url: "https://search.khora.world/", primary: true },
+        { label: "Palinode Productions", url: "https://www.palinode.productions/", primary: false },
+        { label: "Hermetechnics Inc.", url: "https://www.hermetechnics.life/", primary: false },
+        { label: "Hermetechnics Instagram", url: "https://www.instagram.com/hermetechnics/", primary: false },
+        { label: "MOODS Ritual Technology", url: "https://moods.world/", primary: true },
+      ],
+    },
+    {
+      topic: "Music",
+      items: [
+        { label: "Eva Kadm0n Bandcamp", url: "https://evakadm0n.bandcamp.com/", primary: false },
+        { label: "Eva Kadm0n Instagram", url: "https://www.instagram.com/evakadm0n/", primary: false },
+        { label: "0e20f2 Bandcamp", url: "https://0e20f2.bandcamp.com/releases", primary: true },
+      ],
+    },
+    {
+      topic: "Other",
+      items: [
+        { label: "Gnostic Technology", url: "https://gnostic.technology/", primary: true },
+        { label: "Tarot of the Latent Spaces Instagram", url: "https://www.instagram.com/tarot_of_the_latent_spaces/", primary: false },
+        { label: "LinkedIn", url: "https://www.linkedin.com/in/karin-v-038b5795/", primary: false },
+        { label: "Occult/Art CV", url: "https://github.com/user-attachments/files/15765064/Valis-occult-cv-jun24.pdf", primary: true },
+        { label: "Goodreads", url: "https://www.goodreads.com/user/show/23194428-karin", primary: false },
+      ],
+    },
   ],
   projects: [
     // 2026

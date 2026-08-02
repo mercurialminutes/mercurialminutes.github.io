@@ -33,20 +33,20 @@
       </header>
 
       <div class="tabs" role="tablist" aria-label="Panel sections">
-        <button type="button" class="tab is-active" role="tab" aria-selected="true" aria-controls="tab-highlights" id="tab-btn-highlights" data-tab="highlights">Highlights</button>
-        <button type="button" class="tab" role="tab" aria-selected="false" aria-controls="tab-upcoming" id="tab-btn-upcoming" data-tab="upcoming">Upcoming</button>
+        <button type="button" class="tab" role="tab" aria-selected="false" aria-controls="tab-highlights" id="tab-btn-highlights" data-tab="highlights">Highlights</button>
+        <button type="button" class="tab is-active" role="tab" aria-selected="true" aria-controls="tab-upcoming" id="tab-btn-upcoming" data-tab="upcoming">Upcoming</button>
         <button type="button" class="tab" role="tab" aria-selected="false" aria-controls="tab-socials" id="tab-btn-socials" data-tab="socials">Socials</button>
       </div>
 
       <div class="tab-panels">
-        <section class="tab-panel is-active" role="tabpanel" id="tab-highlights" aria-labelledby="tab-btn-highlights">
+        <section class="tab-panel" role="tabpanel" id="tab-highlights" aria-labelledby="tab-btn-highlights" hidden>
           <ul class="list" id="list-highlights"></ul>
         </section>
-        <section class="tab-panel" role="tabpanel" id="tab-upcoming" aria-labelledby="tab-btn-upcoming" hidden>
+        <section class="tab-panel is-active" role="tabpanel" id="tab-upcoming" aria-labelledby="tab-btn-upcoming">
           <ul class="list" id="list-upcoming"></ul>
         </section>
         <section class="tab-panel" role="tabpanel" id="tab-socials" aria-labelledby="tab-btn-socials" hidden>
-          <ul class="list list-socials" id="list-socials"></ul>
+          <div class="social-groups" id="list-socials"></div>
         </section>
       </div>
 
