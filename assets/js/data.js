@@ -82,7 +82,6 @@ window.SITE_DATA = {
         { label: "Gnostic Technology", url: "https://gnostic.technology/", primary: true },
         { label: "Tarot of the Latent Spaces Instagram", url: "https://www.instagram.com/tarot_of_the_latent_spaces/", primary: false },
         { label: "LinkedIn", url: "https://www.linkedin.com/in/karin-v-038b5795/", primary: false },
-        { label: "Occult/Art CV", url: "https://github.com/user-attachments/files/15765064/Valis-occult-cv-jun24.pdf", primary: true },
         { label: "Goodreads", url: "https://www.goodreads.com/user/show/23194428-karin", primary: false },
       ],
     },
